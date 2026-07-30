@@ -1,0 +1,58 @@
+{
+  "keeway_rkf125_2021-2024": {
+    "pneumatici": {
+      "anteriore": "100/80-17",
+      "posteriore": "130/70-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W40 semisintetico",
+      "quantita_litri": null,
+      "filtro": "Hiflo HF131",
+      "fonte": "comune_aftermarket"
+    },
+    "candele": {
+      "modello": "NGK CR8E",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+keeway+rkf+125",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+keeway+rkf+125"
+    }
+  },
+  "yamaha_mt125_2020-2023": {
+    "pneumatici": {
+      "anteriore": "100/80-17",
+      "posteriore": "140/70-17",
+      "pressione_bar": { "anteriore": 1.8, "posteriore": 2.0 },
+      "fonte": "verificata"
+    },
+    "olio": {
+      "tipo": "10W40 JASO MA/MA2",
+      "quantita_litri": "0,85-0,95 (varia leggermente tra fonti, verificare col vetro spia)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK CR9E",
+      "fonte": "verificata"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+mt125",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+mt125"
+    }
+  }
+}
