@@ -1370,5 +1370,1329 @@
       "olio": "https://www.amazon.it/s?k=olio+5w40+vespa+gts+125",
       "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+vespa+gts+125"
     }
+  },
+  "yamaha_tracer9": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "180/55-17",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.9 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W40",
+      "quantita_litri": "2,8 (3,2 con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK LMAR9A-9",
+      "fonte": "verificata"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+tracer+9",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+tracer+9"
+    }
+  },
+  "yamaha_r3": {
+    "pneumatici": {
+      "anteriore": "110/70-17",
+      "posteriore": "140/70-17",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W40 (minimo API SG)",
+      "quantita_litri": "1,8 (2,1 con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK CR8E / CR8EIX",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+r3",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+r3"
+    }
+  },
+  "yamaha_r7": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "180/55-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W40 JASO MA/MA2",
+      "quantita_litri": "3,0 (con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK LMAR8A-9",
+      "fonte": "verificata"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+r7",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+r7"
+    }
+  },
+  "yamaha_r1": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "190/55-17",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W40 (minimo API SE)",
+      "quantita_litri": "2,9 (3,1 con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK CR9EIA-9",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+r1",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+r1"
+    }
+  },
+  "yamaha_xsr700": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "180/55-17",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W40",
+      "quantita_litri": "2,3 (2,6 con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK LMAR8A-9",
+      "fonte": "verificata"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+xsr700",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+xsr700"
+    }
+  },
+  "yamaha_xsr900": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "180/55-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W40",
+      "quantita_litri": "2,8 (3,2 con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK LMAR9A-9",
+      "fonte": "verificata"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+xsr900",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+xsr900"
+    }
+  },
+  "yamaha_tricity125": {
+    "pneumatici": {
+      "anteriore": "90/80-14 (x2)",
+      "posteriore": "130/70-13",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.25 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W40 API SG",
+      "quantita_litri": "0,8 (con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK CR7E / CR7EIX",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+tricity+125",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+tricity+125"
+    }
+  },
+  "honda_cb1000r": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": { "anteriore": null, "posteriore": 2.9 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W30",
+      "quantita_litri": "2,7 (3,0 con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK IMR9E-9HES",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+cb1000r",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+cb1000r"
+    }
+  },
+  "honda_cbr500r": {
+    "pneumatici": {
+      "anteriore": "120/70-ZR17",
+      "posteriore": "160/60-ZR17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W40 API SE (o superiore)",
+      "quantita_litri": "2,8 (3,0 con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK DR7ES",
+      "fonte": "verificata"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+honda+cbr500r",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+cbr500r"
+    }
+  },
+  "honda_cbr650r": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "180/55-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W30 (minimo API SG)",
+      "quantita_litri": "2,7 (2,9 con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK IMR9E-9HES",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+cbr650r",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+cbr650r"
+    }
+  },
+  "honda_nc750x": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "160/60-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W30",
+      "quantita_litri": "4,0 (con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK IFR6G-11K",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+nc750x",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+nc750x"
+    }
+  },
+  "honda_transalpxl750": {
+    "pneumatici": {
+      "anteriore": "90/90-21",
+      "posteriore": "150/70-18",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W30",
+      "quantita_litri": "3,9 (con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK SILMAR8A9S",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+transalp+xl750",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+transalp+xl750"
+    }
+  },
+  "honda_rebel500": {
+    "pneumatici": {
+      "anteriore": "130/90-16",
+      "posteriore": "150/80-16",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W40 API SE (o superiore)",
+      "quantita_litri": "3,2 (con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK DR7ES",
+      "fonte": "verificata"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+honda+rebel+500",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+rebel+500"
+    }
+  },
+  "honda_adv350": {
+    "pneumatici": {
+      "anteriore": "120/70-15",
+      "posteriore": "140/70-14",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.3 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W30",
+      "quantita_litri": "1,3 (1,5 con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK LMAR8L-9",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+adv+350",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+adv+350"
+    }
+  },
+  "honda_cb750hornet": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "160/60-17",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.9 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W30",
+      "quantita_litri": "3,3 (3,5 con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK SILMAR8A9S",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+cb750+hornet",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+cb750+hornet"
+    }
+  },
+  "honda_forza750": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "160/60-15",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W30",
+      "quantita_litri": "4,0 (con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+forza+750",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+forza+750"
+    }
+  },
+  "piaggio_liberty150": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+piaggio+liberty+150",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+piaggio+liberty+150"
+    }
+  },
+  "piaggio_medley150": {
+    "pneumatici": {
+      "anteriore": "100/80-16",
+      "posteriore": "110/80-14",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "0W30 sintetico",
+      "quantita_litri": "1,2 (con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK LMAR8EI-7",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+0w30+piaggio+medley+150",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+piaggio+medley+150"
+    }
+  },
+  "piaggio_beverly400": {
+    "pneumatici": {
+      "anteriore": "120/70-16",
+      "posteriore": "150/70-14",
+      "pressione_bar": { "anteriore": 2.2, "posteriore": 2.5 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+piaggio+beverly+400",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+piaggio+beverly+400"
+    }
+  },
+  "aprilia_tuono660": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "180/55-17",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.8 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W50 API SL",
+      "quantita_litri": "2,3 (con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK MR9DI-7",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w50+aprilia+tuono+660",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+aprilia+tuono+660"
+    }
+  },
+  "aprilia_tuonov4": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "200/55-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+aprilia+tuono+v4",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+aprilia+tuono+v4"
+    }
+  },
+  "aprilia_rsv4": {
+    "pneumatici": {
+      "anteriore": "120/70-ZR17",
+      "posteriore": "190/55-ZR17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+aprilia+rsv4",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+aprilia+rsv4"
+    }
+  },
+  "aprilia_tuareg660": {
+    "pneumatici": {
+      "anteriore": "90/90-21",
+      "posteriore": "150/70-18",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+aprilia+tuareg+660",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+aprilia+tuareg+660"
+    }
+  },
+  "ducati_panigalev2": {
+    "pneumatici": {
+      "anteriore": "120/70-ZR17",
+      "posteriore": "180/60-ZR17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "15W50",
+      "quantita_litri": "circa 4,0 (con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+panigale+v2",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ducati+panigale+v2"
+    }
+  },
+  "ducati_multistradav4": {
+    "pneumatici": {
+      "anteriore": "120/70-ZR19",
+      "posteriore": "170/60-ZR17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "15W50",
+      "quantita_litri": "4,4 (con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK SILMDR9A-8GS",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+multistrada+v4",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ducati+multistrada+v4"
+    }
+  },
+  "ducati_desertx": {
+    "pneumatici": {
+      "anteriore": "90/90-21",
+      "posteriore": "150/70-18",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "15W50 MA2",
+      "quantita_litri": "3,1 (con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK MAR9A-J",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+desertx",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ducati+desertx"
+    }
+  },
+  "ducati_streetfighterv4": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "200/60-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "15W50",
+      "quantita_litri": "circa 4,0 (con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+streetfighter+v4",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ducati+streetfighter+v4"
+    }
+  },
+  "ktm_duke200": {
+    "pneumatici": {
+      "anteriore": "110/70-17",
+      "posteriore": "150/60-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": "1,4",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+ktm+duke+200",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+duke+200"
+    }
+  },
+  "ktm_rc390": {
+    "pneumatici": {
+      "anteriore": "110/70-17",
+      "posteriore": "150/60-17",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.0 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "15W50 JASO MA",
+      "quantita_litri": "1,6 (con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK LKAR8A-9",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+15w50+ktm+rc+390",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+rc+390"
+    }
+  },
+  "ktm_adventure390": {
+    "pneumatici": {
+      "anteriore": "90/90-21",
+      "posteriore": "140/80-18",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.0 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "15W50 T903",
+      "quantita_litri": "1,7 (con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "Bosch VR6NEU",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+15w50+ktm+390+adventure",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+390+adventure"
+    }
+  },
+  "ktm_adventure890": {
+    "pneumatici": {
+      "anteriore": "90/90-21",
+      "posteriore": "150/70-18",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W50",
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w50+ktm+890+adventure",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+890+adventure"
+    }
+  },
+  "ktm_superduke1290": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "200/55-17",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.9 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W50",
+      "quantita_litri": "3,5 (con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK LKAR9BI9 (interna) / NGK LMAR7A9 (esterna)",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w50+ktm+1290+super+duke",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+1290+super+duke"
+    }
+  },
+  "ktm_rc125": {
+    "pneumatici": {
+      "anteriore": "110/70-17",
+      "posteriore": "150/60-17",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.0 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "15W50 JASO MA",
+      "quantita_litri": "1,5 (con filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK LKAR8A-9",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+15w50+ktm+rc+125",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+rc+125"
+    }
+  },
+  "keeway_klight125": {
+    "pneumatici": {
+      "anteriore": "90/90-17",
+      "posteriore": "130/90-15",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+keeway+k-light+125",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+keeway+k-light+125"
+    }
+  },
+  "keeway_k300r": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+keeway+k300r",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+keeway+k300r"
+    }
+  },
+  "kawasaki_ninja125": {
+    "pneumatici": {
+      "anteriore": "100/80-17",
+      "posteriore": "130/70-17",
+      "pressione_bar": { "anteriore": 2.0, "posteriore": 2.3 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W40",
+      "quantita_litri": "0,85 (0,93 con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK LMAR8G",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+ninja+125",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+ninja+125"
+    }
+  },
+  "kawasaki_versys300": {
+    "pneumatici": {
+      "anteriore": "100/90-19",
+      "posteriore": "130/80-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+kawasaki+versys-x+300",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+versys-x+300"
+    }
+  },
+  "kawasaki_z900rs": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "180/55-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W40 (minimo API SG)",
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+z900rs",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+z900rs"
+    }
+  },
+  "kawasaki_zx6r": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "180/55-17",
+      "pressione_bar": { "anteriore": null, "posteriore": 2.9 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W40",
+      "quantita_litri": "3,4 (3,6 con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK CR9E / CR9EIX",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+zx-6r",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+zx-6r"
+    }
+  },
+  "kawasaki_ninjazx10r": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "190/55-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+kawasaki+ninja+zx-10r",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+ninja+zx-10r"
+    }
+  },
+  "suzuki_burgman125": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": { "anteriore": null, "posteriore": 2.25 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "10W40",
+      "quantita_litri": "1,2 (1,3 con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK CR8E / CR8EIX",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+suzuki+burgman+125",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+burgman+125"
+    }
+  },
+  "suzuki_gsxs1000": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "190/50-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W40",
+      "quantita_litri": "3,2 (con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK CR9EIA-9",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+10w40+suzuki+gsx-s1000",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+gsx-s1000"
+    }
+  },
+  "suzuki_hayabusa": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "190/50-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+suzuki+hayabusa",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+hayabusa"
+    }
+  },
+  "suzuki_vstrom800de": {
+    "pneumatici": {
+      "anteriore": "90/90-21",
+      "posteriore": "150/70-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W40 (carter 3,9 L)",
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+suzuki+v-strom+800de",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+v-strom+800de"
+    }
+  },
+  "bmw_f900r": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "180/55-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+bmw+f900r",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+bmw+f900r"
+    }
+  },
+  "bmw_s1000r": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+bmw+s1000r",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+bmw+s1000r"
+    }
+  },
+  "bmw_f850gs": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "5W40",
+      "quantita_litri": "3,0 (minimo con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK LMAR8J-9E",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+5w40+bmw+f850gs",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+bmw+f850gs"
+    }
+  },
+  "bmw_r1250r": {
+    "pneumatici": {
+      "anteriore": "120/70-17",
+      "posteriore": "180/55-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+bmw+r1250r",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+bmw+r1250r"
+    }
+  },
+  "vespa_primavera150": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": { "anteriore": null, "posteriore": 2.0 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "5W40 API SL",
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK CR8EB",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+5w40+vespa+primavera+150",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+vespa+primavera+150"
+    }
+  },
+  "vespa_sprint150": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": { "anteriore": null, "posteriore": 2.0 },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "5W40 API SL",
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK CR8EB",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "link_ricerca": {
+      "olio": "https://www.amazon.it/s?k=olio+5w40+vespa+sprint+150",
+      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+vespa+sprint+150"
+    }
   }
 }
