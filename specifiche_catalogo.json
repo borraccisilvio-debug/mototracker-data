@@ -69,14 +69,14 @@
       "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-30",
+      "quantita_litri": "0,9",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8L-9",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07074 (anteriore)",
@@ -101,8 +101,8 @@
       "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LKAR8A-9",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR18.SA (anteriore) / 07BB02.SP (posteriore)",
@@ -130,8 +130,8 @@
       "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8L-9",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07096",
@@ -360,10 +360,10 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "10W-40",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
       "modello": "NGK CR9EB / CR9EIX (versione 4 tempi attuale)",
@@ -455,8 +455,8 @@
       "fonte": "non_disponibile"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK MR8E-9",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -698,14 +698,14 @@
       "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 (minimo API SG)",
+      "quantita_litri": "1,3 (1,4 con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK MR8E-9",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -1278,8 +1278,8 @@
       "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK IFR6G-11K",
+      "fonte": "indicativa"
     },
     "liquido_freni": {
       "tipo": "DOT 4",
@@ -1928,8 +1928,8 @@
       "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK IFR6G-11K",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -1948,14 +1948,14 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40",
+      "quantita_litri": "1,1",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR8EB",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -2006,14 +2006,14 @@
       "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "15W-50",
+      "quantita_litri": "1,5 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK MR7BI-8",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -2061,14 +2061,14 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "5W-40",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR9EKB",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -2087,14 +2087,14 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "5W-40",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR9EIX",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -2113,14 +2113,14 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "10W-50",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK MR9DI-7",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB03LA (anteriore) / 07BB02CC (posteriore)",
@@ -2145,8 +2145,8 @@
       "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK MAR9A-J",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB2090 (posteriore)",
@@ -2223,8 +2223,8 @@
       "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMDR10A-JS",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB2065 (posteriore)",
@@ -2243,14 +2243,14 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": "1,4",
+      "tipo": "10W-40",
+      "quantita_litri": "2,0",
       "filtro": null,
       "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LKAR8A-9",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR18SA (anteriore)",
@@ -2333,8 +2333,8 @@
       "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR9AI-10",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -2411,14 +2411,14 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "10W-40",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK DPR7EA-9",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -2492,14 +2492,14 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 (minimo API SG)",
+      "quantita_litri": "2,0 (2,2 con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR8EIX",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -2524,8 +2524,8 @@
       "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR9EIA-9",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -2573,14 +2573,14 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 (minimo API SG)",
+      "quantita_litri": "2,9 (3,3 con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK SILMAR9B9",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": "EBC FA379 (anteriore) / FA192 (posteriore)",
@@ -2654,14 +2654,14 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "10W-40",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR9EIX",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -2706,14 +2706,14 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40 (API SJ)",
+      "quantita_litri": "3,0",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR9J-9E",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB38 (anteriore)",
@@ -2732,14 +2732,14 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "5W-40",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR9FI-10G",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR90SA (anteriore)",
@@ -2787,14 +2787,14 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "5W-40 (API SL, JASO MA2)",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8AI-10",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB0390 (anteriore)",
