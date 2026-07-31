@@ -19,10 +19,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+keeway+rkf+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+keeway+rkf+125"
     }
   },
   "yamaha_mt125_2020-2023": {
@@ -52,10 +48,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR7707 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+mt125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+mt125"
     }
   },
   "honda_sh125i": {
@@ -81,10 +73,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07074 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+honda+sh125i",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+sh125i"
     }
   },
   "ktm_duke390": {
@@ -107,10 +95,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR18.SA (anteriore) / 07BB02.SP (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+15w50+ktm+390+duke",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+390+duke"
     }
   },
   "honda_sh150i": {
@@ -136,10 +120,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07096",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+sh150i",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+sh150i"
     }
   },
   "piaggio_liberty125": {
@@ -169,10 +149,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR03 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+5w40+piaggio+liberty+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+piaggio+liberty+125"
     }
   },
   "vespa_primavera125": {
@@ -195,10 +171,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+5w40+vespa+primavera+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+vespa+primavera+125"
     }
   },
   "yamaha_nmax125": {
@@ -224,10 +196,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+nmax+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+nmax+125"
     }
   },
   "honda_pcx125": {
@@ -254,10 +222,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07118XS (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+pcx125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+pcx125"
     }
   },
   "ktm_duke125": {
@@ -287,10 +251,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR18CC (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+ktm+duke+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+duke+125"
     }
   },
   "piaggio_medley125": {
@@ -313,10 +273,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07060XS (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+0w30+piaggio+medley+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+piaggio+medley+125"
     }
   },
   "yamaha_mt07": {
@@ -346,10 +302,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07YA23SR (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+mt-07",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+mt-07"
     }
   },
   "aprilia_rs125": {
@@ -372,10 +324,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+aprilia+rs+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+aprilia+rs+125"
     }
   },
   "honda_cb125r": {
@@ -402,10 +350,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO62.SA (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+cb125r",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+cb125r"
     }
   },
   "yamaha_r125": {
@@ -435,10 +379,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR5209 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+r125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+r125"
     }
   },
   "suzuki_gsxs125": {
@@ -461,10 +401,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+suzuki+gsx-s125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+gsx-s125"
     }
   },
   "kawasaki_z650": {
@@ -494,10 +430,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO30SA (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+z650",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+z650"
     }
   },
   "kawasaki_ninja650": {
@@ -527,10 +459,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO30SR (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+ninja+650",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+ninja+650"
     }
   },
   "honda_cb500f": {
@@ -560,10 +488,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO72SA (anteriore) / 07HO53SP (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+honda+cb500f",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+cb500f"
     }
   },
   "vespa_gts300": {
@@ -589,10 +513,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07056XS (anteriore) / 07047XS (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+5w40+vespa+gts+300",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+vespa+gts+300"
     }
   },
   "yamaha_mt09": {
@@ -622,10 +542,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07YA23SR (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+mt-09",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+mt-09"
     }
   },
   "yamaha_tracer7": {
@@ -655,10 +571,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07YA2307 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+tracer+7",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+tracer+7"
     }
   },
   "honda_forza125": {
@@ -684,10 +596,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07064XS (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+forza+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+forza+125"
     }
   },
   "suzuki_gsxr125": {
@@ -710,10 +618,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+suzuki+gsx-r125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+gsx-r125"
     }
   },
   "kawasaki_versys650": {
@@ -743,10 +647,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07KA18LA (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+versys+650",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+versys+650"
     }
   },
   "bmw_g310r": {
@@ -772,10 +672,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR18 (anteriore) / 07BB02 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+5w40+bmw+g310r",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+bmw+g310r"
     }
   },
   "ducati_monster": {
@@ -798,10 +694,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB38SA (anteriore) / 07BB20 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+monster",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ducati+monster"
     }
   },
   "suzuki_vstrom650": {
@@ -827,10 +719,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07KA18LA (anteriore) / 07HO3607 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+suzuki+v-strom+650",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+v-strom+650"
     }
   },
   "honda_sh350i": {
@@ -853,10 +741,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07064XS (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+sh350i",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+sh350i"
     }
   },
   "piaggio_beverly300": {
@@ -886,10 +770,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07056XS (anteriore) / 07047XS (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+5w40+piaggio+beverly+300",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+piaggio+beverly+300"
     }
   },
   "yamaha_xmax125": {
@@ -915,10 +795,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07065 (anteriore) / 07043 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+xmax+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+xmax+125"
     }
   },
   "yamaha_xmax300": {
@@ -944,10 +820,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07YA52SA (anteriore) / 07YA53 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+xmax+300",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+xmax+300"
     }
   },
   "vespa_sprint125": {
@@ -970,10 +842,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+5w40+vespa+sprint+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+vespa+sprint+125"
     }
   },
   "suzuki_burgman400": {
@@ -996,10 +864,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07074XS (anteriore) / 07058CC (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+suzuki+burgman+400",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+burgman+400"
     }
   },
   "kawasaki_z900": {
@@ -1025,10 +889,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07KA23SA (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+z900",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+z900"
     }
   },
   "suzuki_sv650": {
@@ -1054,10 +914,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07KA1306 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+suzuki+sv650",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+sv650"
     }
   },
   "honda_africatwincrf1100l": {
@@ -1083,10 +939,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO62SA (anteriore) / 07HO36SP (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+africa+twin",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+africa+twin"
     }
   },
   "bmw_r1250gs": {
@@ -1112,10 +964,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR90SA (anteriore) / 07BB0365 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+5w40+bmw+r1250gs",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+bmw+r1250gs"
     }
   },
   "yamaha_tmax560": {
@@ -1145,10 +993,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07077 (anteriore) / 07052 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+tmax+560",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+tmax+560"
     }
   },
   "yamaha_tenere700": {
@@ -1174,10 +1018,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB04SX (anteriore) / 07BB02 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+tenere+700",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+tenere+700"
     }
   },
   "yamaha_mt03": {
@@ -1203,10 +1043,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07YA52CC (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+mt-03",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+mt-03"
     }
   },
   "honda_cb300r": {
@@ -1229,10 +1065,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+cb300r",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+cb300r"
     }
   },
   "honda_cb650r": {
@@ -1255,10 +1087,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO62SA (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+cb650r",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+cb650r"
     }
   },
   "honda_xadv750": {
@@ -1288,10 +1116,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO62LA (anteriore) / 07HO53CC (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+x-adv+750",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+x-adv+750"
     }
   },
   "aprilia_rs660": {
@@ -1317,10 +1141,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB38 (anteriore) / 07BB2065 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w50+aprilia+rs+660",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+aprilia+rs+660"
     }
   },
   "ducati_scramblericon": {
@@ -1350,10 +1170,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB3897 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+scrambler+icon",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ducati+scrambler+icon"
     }
   },
   "ktm_duke890": {
@@ -1379,10 +1195,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB19 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w50+ktm+duke+890",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+duke+890"
     }
   },
   "kawasaki_ninja400": {
@@ -1412,10 +1224,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07KA31RC (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+ninja+400",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+ninja+400"
     }
   },
   "suzuki_gsx8s": {
@@ -1441,10 +1249,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07KA23 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+suzuki+gsx-8s",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+gsx-8s"
     }
   },
   "vespa_gts125": {
@@ -1467,10 +1271,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07047 (anteriore) / 07056 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+5w40+vespa+gts+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+vespa+gts+125"
     }
   },
   "yamaha_tracer9": {
@@ -1500,10 +1300,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07YA23SA (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+tracer+9",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+tracer+9"
     }
   },
   "yamaha_r3": {
@@ -1529,10 +1325,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07YA52 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+r3",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+r3"
     }
   },
   "yamaha_r7": {
@@ -1559,10 +1351,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+r7",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+r7"
     }
   },
   "yamaha_r1": {
@@ -1588,10 +1376,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+r1",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+r1"
     }
   },
   "yamaha_xsr700": {
@@ -1621,10 +1405,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07YA2307 (anteriore) / 07HO36SP (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+xsr700",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+xsr700"
     }
   },
   "yamaha_xsr900": {
@@ -1651,10 +1431,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07YA23SR (anteriore) / 07HO3607 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+xsr900",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+xsr900"
     }
   },
   "yamaha_tricity125": {
@@ -1680,10 +1456,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+tricity+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+yamaha+tricity+125"
     }
   },
   "honda_cb1000r": {
@@ -1709,10 +1481,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO63SA (anteriore) / 07HO13SP (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+cb1000r",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+cb1000r"
     }
   },
   "honda_cbr500r": {
@@ -1739,10 +1507,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO53CC (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+honda+cbr500r",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+cbr500r"
     }
   },
   "honda_cbr650r": {
@@ -1765,10 +1529,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO62LA (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+cbr650r",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+cbr650r"
     }
   },
   "honda_nc750x": {
@@ -1791,10 +1551,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO41SA (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+nc750x",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+nc750x"
     }
   },
   "honda_transalpxl750": {
@@ -1820,10 +1576,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR03 (anteriore) / 07HO36SP (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+transalp+xl750",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+transalp+xl750"
     }
   },
   "honda_rebel500": {
@@ -1850,10 +1602,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO41LA (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+honda+rebel+500",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+rebel+500"
     }
   },
   "honda_adv350": {
@@ -1879,10 +1627,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07074XS (anteriore) / 07064XS (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+adv+350",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+adv+350"
     }
   },
   "honda_cb750hornet": {
@@ -1908,10 +1652,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+cb750+hornet",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+cb750+hornet"
     }
   },
   "honda_forza750": {
@@ -1934,10 +1674,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w30+honda+forza+750",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+honda+forza+750"
     }
   },
   "piaggio_liberty150": {
@@ -1960,10 +1696,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+piaggio+liberty+150",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+piaggio+liberty+150"
     }
   },
   "piaggio_medley150": {
@@ -1989,10 +1721,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07060 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+0w30+piaggio+medley+150",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+piaggio+medley+150"
     }
   },
   "piaggio_beverly400": {
@@ -2018,10 +1746,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+piaggio+beverly+400",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+piaggio+beverly+400"
     }
   },
   "aprilia_tuono660": {
@@ -2047,10 +1771,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB3859 (anteriore) / 07BB209A (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w50+aprilia+tuono+660",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+aprilia+tuono+660"
     }
   },
   "aprilia_tuonov4": {
@@ -2073,10 +1793,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+aprilia+tuono+v4",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+aprilia+tuono+v4"
     }
   },
   "aprilia_rsv4": {
@@ -2099,10 +1815,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+aprilia+rsv4",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+aprilia+rsv4"
     }
   },
   "aprilia_tuareg660": {
@@ -2125,10 +1837,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB03LA (anteriore) / 07BB02CC (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+aprilia+tuareg+660",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+aprilia+tuareg+660"
     }
   },
   "ducati_panigalev2": {
@@ -2151,10 +1859,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB2090 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+panigale+v2",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ducati+panigale+v2"
     }
   },
   "ducati_multistradav4": {
@@ -2177,10 +1881,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB3897 (anteriore) / 07BB0459 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+multistrada+v4",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ducati+multistrada+v4"
     }
   },
   "ducati_desertx": {
@@ -2203,10 +1903,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+desertx",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ducati+desertx"
     }
   },
   "ducati_streetfighterv4": {
@@ -2229,10 +1925,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB2065 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+streetfighter+v4",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ducati+streetfighter+v4"
     }
   },
   "ktm_duke200": {
@@ -2255,10 +1947,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR18SA (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+ktm+duke+200",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+duke+200"
     }
   },
   "ktm_rc390": {
@@ -2284,10 +1972,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR18SR (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+15w50+ktm+rc+390",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+rc+390"
     }
   },
   "ktm_adventure390": {
@@ -2313,10 +1997,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR18 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+15w50+ktm+390+adventure",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+390+adventure"
     }
   },
   "ktm_adventure890": {
@@ -2339,10 +2019,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w50+ktm+890+adventure",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+890+adventure"
     }
   },
   "ktm_superduke1290": {
@@ -2368,10 +2044,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w50+ktm+1290+super+duke",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+1290+super+duke"
     }
   },
   "ktm_rc125": {
@@ -2397,10 +2069,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR18 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+15w50+ktm+rc+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+ktm+rc+125"
     }
   },
   "keeway_klight125": {
@@ -2423,10 +2091,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+keeway+k-light+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+keeway+k-light+125"
     }
   },
   "keeway_k300r": {
@@ -2449,10 +2113,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+keeway+k300r",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+keeway+k300r"
     }
   },
   "kawasaki_ninja125": {
@@ -2478,10 +2138,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07KA31RC (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+ninja+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+ninja+125"
     }
   },
   "kawasaki_versys300": {
@@ -2504,10 +2160,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+kawasaki+versys-x+300",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+versys-x+300"
     }
   },
   "kawasaki_z900rs": {
@@ -2530,10 +2182,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+z900rs",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+z900rs"
     }
   },
   "kawasaki_zx6r": {
@@ -2559,10 +2207,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+zx-6r",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+zx-6r"
     }
   },
   "kawasaki_ninjazx10r": {
@@ -2585,10 +2229,6 @@
     "pastiglie_freni": {
       "consigliate": "EBC FA379 (anteriore) / FA192 (posteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+kawasaki+ninja+zx-10r",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+kawasaki+ninja+zx-10r"
     }
   },
   "suzuki_burgman125": {
@@ -2614,10 +2254,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07070 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+suzuki+burgman+125",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+burgman+125"
     }
   },
   "suzuki_gsxs1000": {
@@ -2640,10 +2276,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+10w40+suzuki+gsx-s1000",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+gsx-s1000"
     }
   },
   "suzuki_hayabusa": {
@@ -2666,10 +2298,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+suzuki+hayabusa",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+hayabusa"
     }
   },
   "suzuki_vstrom800de": {
@@ -2692,10 +2320,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+suzuki+v-strom+800de",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+suzuki+v-strom+800de"
     }
   },
   "bmw_f900r": {
@@ -2718,10 +2342,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB38 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+bmw+f900r",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+bmw+f900r"
     }
   },
   "bmw_s1000r": {
@@ -2744,10 +2364,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07GR90SA (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+bmw+s1000r",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+bmw+s1000r"
     }
   },
   "bmw_f850gs": {
@@ -2773,10 +2389,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+5w40+bmw+f850gs",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+bmw+f850gs"
     }
   },
   "bmw_r1250r": {
@@ -2799,10 +2411,6 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07BB0390 (anteriore)",
       "fonte": "comune_aftermarket"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+bmw+r1250r",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+bmw+r1250r"
     }
   },
   "vespa_primavera150": {
@@ -2828,10 +2436,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+5w40+vespa+primavera+150",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+vespa+primavera+150"
     }
   },
   "vespa_sprint150": {
@@ -2857,10 +2461,6 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
-    },
-    "link_ricerca": {
-      "olio": "https://www.amazon.it/s?k=olio+5w40+vespa+sprint+150",
-      "pastiglie": "https://www.amazon.it/s?k=pastiglie+freni+vespa+sprint+150"
     }
   }
 }
