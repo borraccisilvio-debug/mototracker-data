@@ -29,7 +29,10 @@
     "pneumatici": {
       "anteriore": "100/80-17",
       "posteriore": "140/70-17",
-      "pressione_bar": { "anteriore": 1.8, "posteriore": 2.0 },
+      "pressione_bar": {
+        "anteriore": 1.8,
+        "posteriore": 2.0
+      },
       "fonte": "verificata"
     },
     "olio": {
@@ -47,8 +50,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR7707 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+mt125",
@@ -59,7 +62,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.0, "posteriore": 2.25 },
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -73,8 +79,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07074 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+honda+sh125i",
@@ -99,8 +105,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR18.SA (anteriore) / 07BB02.SP (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+15w50+ktm+390+duke",
@@ -111,7 +117,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.0, "posteriore": 2.2 },
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.2
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -125,8 +134,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07096",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w30+honda+sh150i",
@@ -137,7 +146,10 @@
     "pneumatici": {
       "anteriore": "90/80-16",
       "posteriore": "110/80-14",
-      "pressione_bar": { "anteriore": 2.0, "posteriore": 2.2 },
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.2
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -155,8 +167,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR03 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+5w40+piaggio+liberty+125",
@@ -193,7 +205,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.0, "posteriore": 2.3 },
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.3
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -237,8 +252,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07118XS (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w30+honda+pcx125",
@@ -249,7 +264,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.0, "posteriore": 2.2 },
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.2
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -267,8 +285,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR18CC (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+ktm+duke+125",
@@ -293,8 +311,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07060XS (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+0w30+piaggio+medley+125",
@@ -305,7 +323,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.25, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.5
+      },
       "fonte": "verificata"
     },
     "olio": {
@@ -323,8 +344,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07YA23SR (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+mt-07",
@@ -379,8 +400,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07HO62.SA (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w30+honda+cb125r",
@@ -391,7 +412,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": null, "posteriore": 2.2 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.2
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -409,8 +433,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR5209 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+r125",
@@ -447,7 +471,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.25, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -465,8 +492,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07HO30SA (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+z650",
@@ -477,7 +504,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.25, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -495,8 +525,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07HO30SR (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+ninja+650",
@@ -507,7 +537,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": null, "posteriore": 2.0 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.0
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -525,8 +558,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07HO72SA (anteriore) / 07HO53SP (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+honda+cb500f",
@@ -537,7 +570,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 1.8, "posteriore": 2.2 },
+      "pressione_bar": {
+        "anteriore": 1.8,
+        "posteriore": 2.2
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -551,8 +587,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07056XS (anteriore) / 07047XS (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+5w40+vespa+gts+300",
@@ -563,7 +599,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": null, "posteriore": 2.9 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.9
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -581,8 +620,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07YA23SR (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+mt-09",
@@ -593,7 +632,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.25, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.5
+      },
       "fonte": "verificata"
     },
     "olio": {
@@ -611,8 +653,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07YA2307 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+tracer+7",
@@ -623,7 +665,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.0, "posteriore": 2.25 },
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -637,8 +682,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07064XS (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w30+honda+forza+125",
@@ -675,7 +720,10 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "160/60-17",
-      "pressione_bar": { "anteriore": 2.25, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.5
+      },
       "fonte": "verificata"
     },
     "olio": {
@@ -693,8 +741,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07KA18LA (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+versys+650",
@@ -705,7 +753,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 1.7, "posteriore": 2.3 },
+      "pressione_bar": {
+        "anteriore": 1.7,
+        "posteriore": 2.3
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -719,8 +770,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR18 (anteriore) / 07BB02 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+5w40+bmw+g310r",
@@ -745,8 +796,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB38SA (anteriore) / 07BB20 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+monster",
@@ -757,7 +808,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.5, "posteriore": 2.9 },
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -771,8 +825,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07KA18LA (anteriore) / 07HO3607 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+suzuki+v-strom+650",
@@ -797,8 +851,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07064XS (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w30+honda+sh350i",
@@ -809,7 +863,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.2, "posteriore": 2.4 },
+      "pressione_bar": {
+        "anteriore": 2.2,
+        "posteriore": 2.4
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -827,8 +884,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07056XS (anteriore) / 07047XS (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+5w40+piaggio+beverly+300",
@@ -839,7 +896,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.5, "posteriore": 2.7 },
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.7
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -853,8 +913,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07065 (anteriore) / 07043 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+xmax+125",
@@ -865,7 +925,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.0, "posteriore": 2.25 },
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -879,8 +942,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07YA52SA (anteriore) / 07YA53 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+xmax+300",
@@ -931,8 +994,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07074XS (anteriore) / 07058CC (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+suzuki+burgman+400",
@@ -943,7 +1006,10 @@
     "pneumatici": {
       "anteriore": "120/70ZR17",
       "posteriore": "180/55ZR17",
-      "pressione_bar": { "anteriore": 2.5, "posteriore": 2.9 },
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -957,8 +1023,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07KA23SA (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+z900",
@@ -969,7 +1035,10 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "160/60-17",
-      "pressione_bar": { "anteriore": 2.25, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.5
+      },
       "fonte": "verificata"
     },
     "olio": {
@@ -983,8 +1052,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07KA1306 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+suzuki+sv650",
@@ -995,7 +1064,10 @@
     "pneumatici": {
       "anteriore": "90/90-21",
       "posteriore": "150/70-18",
-      "pressione_bar": { "anteriore": 2.5, "posteriore": 2.9 },
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1009,8 +1081,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07HO62SA (anteriore) / 07HO36SP (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w30+honda+africa+twin",
@@ -1021,7 +1093,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.5, "posteriore": 2.9 },
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
       "fonte": "verificata"
     },
     "olio": {
@@ -1035,8 +1110,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR90SA (anteriore) / 07BB0365 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+5w40+bmw+r1250gs",
@@ -1047,7 +1122,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1065,8 +1143,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07077 (anteriore) / 07052 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+tmax+560",
@@ -1077,7 +1155,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.2, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": 2.2,
+        "posteriore": 2.5
+      },
       "fonte": "verificata"
     },
     "olio": {
@@ -1091,8 +1172,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB04SX (anteriore) / 07BB02 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+tenere+700",
@@ -1103,7 +1184,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.3, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": 2.3,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1117,8 +1201,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07YA52CC (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+mt-03",
@@ -1169,8 +1253,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07HO62SA (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w30+honda+cb650r",
@@ -1181,7 +1265,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.5, "posteriore": 2.8 },
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.8
+      },
       "fonte": "verificata"
     },
     "olio": {
@@ -1199,8 +1286,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07HO62LA (anteriore) / 07HO53CC (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w30+honda+x-adv+750",
@@ -1211,7 +1298,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": null, "posteriore": 2.8 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.8
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1225,8 +1315,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB38 (anteriore) / 07BB2065 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w50+aprilia+rs+660",
@@ -1237,7 +1327,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.5, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1255,8 +1348,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB3897 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+scrambler+icon",
@@ -1267,7 +1360,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": 2.5, "posteriore": 2.9 },
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1281,8 +1377,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB19 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w50+ktm+duke+890",
@@ -1293,7 +1389,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": null, "posteriore": 2.25 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.25
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1311,8 +1410,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07KA31RC (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+ninja+400",
@@ -1323,7 +1422,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1337,8 +1439,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07KA23 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+suzuki+gsx-8s",
@@ -1363,8 +1465,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07047 (anteriore) / 07056 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+5w40+vespa+gts+125",
@@ -1375,7 +1477,10 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "180/55-17",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.9 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.9
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1393,8 +1498,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07YA23SA (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+tracer+9",
@@ -1405,7 +1510,10 @@
     "pneumatici": {
       "anteriore": "110/70-17",
       "posteriore": "140/70-17",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1419,8 +1527,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07YA52 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+r3",
@@ -1461,7 +1569,10 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "190/55-17",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1487,7 +1598,10 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "180/55-17",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1505,8 +1619,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07YA2307 (anteriore) / 07HO36SP (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+xsr700",
@@ -1535,8 +1649,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07YA23SR (anteriore) / 07HO3607 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+yamaha+xsr900",
@@ -1547,7 +1661,10 @@
     "pneumatici": {
       "anteriore": "90/80-14 (x2)",
       "posteriore": "130/70-13",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.25 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.25
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1573,7 +1690,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": null, "posteriore": 2.9 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.9
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1587,8 +1707,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07HO63SA (anteriore) / 07HO13SP (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w30+honda+cb1000r",
@@ -1617,8 +1737,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07HO53CC (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+honda+cbr500r",
@@ -1643,8 +1763,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07HO62LA (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w30+honda+cbr650r",
@@ -1669,8 +1789,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07HO41SA (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w30+honda+nc750x",
@@ -1681,7 +1801,10 @@
     "pneumatici": {
       "anteriore": "90/90-21",
       "posteriore": "150/70-18",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1695,8 +1818,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR03 (anteriore) / 07HO36SP (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w30+honda+transalp+xl750",
@@ -1725,8 +1848,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07HO41LA (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+honda+rebel+500",
@@ -1737,7 +1860,10 @@
     "pneumatici": {
       "anteriore": "120/70-15",
       "posteriore": "140/70-14",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.3 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.3
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1751,8 +1877,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07074XS (anteriore) / 07064XS (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w30+honda+adv+350",
@@ -1763,7 +1889,10 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "160/60-17",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.9 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.9
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1841,7 +1970,10 @@
     "pneumatici": {
       "anteriore": "100/80-16",
       "posteriore": "110/80-14",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1855,8 +1987,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07060 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+0w30+piaggio+medley+150",
@@ -1867,7 +1999,10 @@
     "pneumatici": {
       "anteriore": "120/70-16",
       "posteriore": "150/70-14",
-      "pressione_bar": { "anteriore": 2.2, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": 2.2,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1893,7 +2028,10 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "180/55-17",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.8 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.8
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -1907,8 +2045,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB3859 (anteriore) / 07BB209A (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w50+aprilia+tuono+660",
@@ -1985,8 +2123,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB03LA (anteriore) / 07BB02CC (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+aprilia+tuareg+660",
@@ -2011,8 +2149,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB2090 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+panigale+v2",
@@ -2037,8 +2175,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB3897 (anteriore) / 07BB0459 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+multistrada+v4",
@@ -2089,8 +2227,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB2065 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+15w50+ducati+streetfighter+v4",
@@ -2115,8 +2253,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR18SA (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+ktm+duke+200",
@@ -2127,7 +2265,10 @@
     "pneumatici": {
       "anteriore": "110/70-17",
       "posteriore": "150/60-17",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.0 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.0
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -2141,8 +2282,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR18SR (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+15w50+ktm+rc+390",
@@ -2153,7 +2294,10 @@
     "pneumatici": {
       "anteriore": "90/90-21",
       "posteriore": "140/80-18",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.0 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.0
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -2167,8 +2311,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR18 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+15w50+ktm+390+adventure",
@@ -2205,7 +2349,10 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "200/55-17",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.9 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.9
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -2231,7 +2378,10 @@
     "pneumatici": {
       "anteriore": "110/70-17",
       "posteriore": "150/60-17",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.0 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.0
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -2245,8 +2395,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR18 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+15w50+ktm+rc+125",
@@ -2309,7 +2459,10 @@
     "pneumatici": {
       "anteriore": "100/80-17",
       "posteriore": "130/70-17",
-      "pressione_bar": { "anteriore": 2.0, "posteriore": 2.3 },
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.3
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -2323,8 +2476,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07KA31RC (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+kawasaki+ninja+125",
@@ -2387,7 +2540,10 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "180/55-17",
-      "pressione_bar": { "anteriore": null, "posteriore": 2.9 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.9
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -2427,8 +2583,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA379 (anteriore) / FA192 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+kawasaki+ninja+zx-10r",
@@ -2439,7 +2595,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": null, "posteriore": 2.25 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.25
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -2453,8 +2612,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07070 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+10w40+suzuki+burgman+125",
@@ -2557,8 +2716,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB38 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+bmw+f900r",
@@ -2583,8 +2742,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR90SA (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+bmw+s1000r",
@@ -2595,7 +2754,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": null, "posteriore": 2.5 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -2635,8 +2797,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB0390 (anteriore)",
+      "fonte": "comune_aftermarket"
     },
     "link_ricerca": {
       "olio": "https://www.amazon.it/s?k=olio+bmw+r1250r",
@@ -2647,7 +2809,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": null, "posteriore": 2.0 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.0
+      },
       "fonte": "indicativa"
     },
     "olio": {
@@ -2673,7 +2838,10 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": { "anteriore": null, "posteriore": 2.0 },
+      "pressione_bar": {
+        "anteriore": null,
+        "posteriore": 2.0
+      },
       "fonte": "indicativa"
     },
     "olio": {
