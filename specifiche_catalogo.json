@@ -797,10 +797,10 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": 2.5,
-        "posteriore": 2.7
+        "anteriore": 1.9,
+        "posteriore": 2.2
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40",
@@ -1559,17 +1559,17 @@
         "anteriore": 2.5,
         "posteriore": 2.9
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "10W30",
-      "quantita_litri": "4,0 (con filtro)",
+      "tipo": "10W-30 (JASO T903 MA)",
+      "quantita_litri": "3,4 (con filtro)",
       "filtro": null,
       "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK IFR6G-11K",
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO41SA (anteriore)",
@@ -3360,20 +3360,20 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.5,
         "posteriore": 2.9
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "5W-40",
-      "quantita_litri": null,
+      "tipo": "5W-40 (API SJ / JASO MA2)",
+      "quantita_litri": "4,0 (con filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": "NGK LMAR9D-J",
-      "fonte": "indicativa"
+      "modello": "NGK LMAR9FI-10G",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": null,
