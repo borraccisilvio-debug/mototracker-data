@@ -6714,5 +6714,181 @@
       "consigliate": null,
       "fonte": "non_disponibile"
     }
+  },
+  "suzuki_boulevardm109r": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "suzuki_vstrom1050de": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "husqvarna_norden901": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "motoguzzi_v7": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "motoguzzi_v9": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "motoguzzi_v85tt": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W-60",
+      "quantita_litri": "1,8",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK MR8BI-8",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "motoguzzi_v100mandello": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "honda_cb1000hornetsp": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
   }
 }
