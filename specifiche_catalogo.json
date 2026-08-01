@@ -4817,5 +4817,181 @@
       "consigliate": null,
       "fonte": "non_disponibile"
     }
+  },
+  "keeway_v302c": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "keeway_iskia": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "keeway_logik": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "keeway_sixties300": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "keeway_superlight": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "keeway_vcruise125": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "keeway_versilia50": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "keeway_xlight125": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W-40 (API SJ)",
+      "quantita_litri": "1,0 (con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK DR8EA",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
   }
 }
