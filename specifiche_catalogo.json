@@ -1097,22 +1097,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "10W30 (minimo API SG)",
-      "quantita_litri": "2,7 (2,9 con filtro)",
+      "tipo": "10W-30 (API SG o superiore / JASO MA)",
+      "quantita_litri": "2,6 (con filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK IMR9E-9HES",
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO62SA (anteriore)",
       "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "honda_xadv750": {
@@ -1549,12 +1556,15 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "180/55-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "10W30 (minimo API SG)",
-      "quantita_litri": "2,7 (2,9 con filtro)",
+      "tipo": "10W-30 (API SG o superiore / JASO MA)",
+      "quantita_litri": "2,6 (con filtro)",
       "filtro": null,
       "fonte": "verificata"
     },
@@ -1565,6 +1575,10 @@
     "pastiglie_freni": {
       "consigliate": "Brembo 07HO62LA (anteriore)",
       "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "honda_nc750x": {
@@ -7182,10 +7196,10 @@
       "fonte": "verificata"
     },
     "olio": {
-      "tipo": "10W-40 (API SL o superiore / JASO MA2)",
-      "quantita_litri": null,
+      "tipo": "10W-40 (JASO MA2, API SL/SM)",
+      "quantita_litri": "2,5 (con filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "TORCH BN8RTI",
