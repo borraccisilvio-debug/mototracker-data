@@ -4106,5 +4106,181 @@
       "tipo": "DOT 4 / DOT 5.1",
       "fonte": "indicativa"
     }
+  },
+  "bmw_f900xr": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "bmw_ce02": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "bmw_ce04": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "bmw_f800gs": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "15W-50",
+      "quantita_litri": "3,0",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK DCPR8E",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "bmw_f900gs": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "bmw_f900gsadventure": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "bmw_m1000r": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "bmw_m1000xr": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
   }
 }
