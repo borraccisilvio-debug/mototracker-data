@@ -3375,5 +3375,185 @@
       "consigliate": null,
       "fonte": "non_disponibile"
     }
+  },
+  "bmw_r1300r": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "bmw_r1300rs": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "bmw_r1300rt": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "bmw_r18": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "bmw_k1600": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "bmw_c400x": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "5W-40",
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "kawasaki_w800": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W-40",
+      "quantita_litri": "2,9 (con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK CR8E / NGK CR8EIX",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
+    }
+  },
+  "bmw_r1250rt": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
   }
 }
