@@ -4641,5 +4641,181 @@
       "consigliate": null,
       "fonte": "non_disponibile"
     }
+  },
+  "honda_em1e": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "honda_gb350s": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": "2,5",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "honda_sh125mode": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "kawasaki_meguros1": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W-40",
+      "quantita_litri": "1,1 (1,2 con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK SILMAR9B9",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "kawasaki_ninja1100sx": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "kawasaki_z125": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "kawasaki_w230": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": "10W-40",
+      "quantita_litri": "1,1 (1,2 con filtro)",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK SILMAR9B9",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
+  },
+  "keeway_vieste125": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
+    },
+    "olio": {
+      "tipo": null,
+      "quantita_litri": null,
+      "filtro": null,
+      "fonte": "non_disponibile"
+    },
+    "candele": {
+      "modello": null,
+      "fonte": "non_disponibile"
+    },
+    "pastiglie_freni": {
+      "consigliate": null,
+      "fonte": "non_disponibile"
+    }
   }
 }
