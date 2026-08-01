@@ -1545,8 +1545,11 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "160/60-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "10W30",
@@ -2658,8 +2661,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-30 (JASO MB)",
