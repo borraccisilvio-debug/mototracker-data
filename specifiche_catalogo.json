@@ -79,14 +79,17 @@
     "pneumatici": {
       "anteriore": "110/70-17",
       "posteriore": "150/60-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.0
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "15W50 sintetico (es. Motorex Formula 4T)",
-      "quantita_litri": null,
+      "tipo": "15W-50",
+      "quantita_litri": "1,7",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK LKAR8A-9",
@@ -735,22 +738,29 @@
     "pneumatici": {
       "anteriore": "110/70-16",
       "posteriore": "130/70-16",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "10W30",
-      "quantita_litri": "1,85 (totale, senza filtro)",
+      "tipo": "10W-30 (JASO T903 MB, API SJ o superiore)",
+      "quantita_litri": "1,5 (con filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK LMAR8L-9",
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07064XS (anteriore)",
       "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "piaggio_beverly300": {
