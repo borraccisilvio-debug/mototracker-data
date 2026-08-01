@@ -526,20 +526,20 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.5,
         "posteriore": 2.9
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "10W40",
-      "quantita_litri": "2,8 (3,2 con filtro)",
+      "tipo": "10W-40 (API SG o superiore / JASO MA)",
+      "quantita_litri": "2,4 (senza filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": "NGK LMAR9A-9",
-      "fonte": "indicativa"
+      "modello": "NGK CPR9EA9",
+      "fonte": "verificata"
     },
     "liquido_freni": {
       "tipo": "DOT 4",
@@ -2596,16 +2596,16 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.5,
         "posteriore": 2.9
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "5W-40 (API SL)",
+      "tipo": "5W-40 (API SL / JASO MA2)",
       "quantita_litri": "5,0 (con filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK LMAR8AI-10",
@@ -6112,8 +6112,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.8
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": null,
@@ -6134,8 +6137,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.8
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": null,
@@ -6156,8 +6162,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.8
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "20W-50",
