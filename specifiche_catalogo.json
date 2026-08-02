@@ -3,22 +3,25 @@
     "pneumatici": {
       "anteriore": "100/80-17",
       "posteriore": "130/70-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.9,
+        "posteriore": 2.1
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W40 semisintetico",
-      "quantita_litri": null,
+      "quantita_litri": "1,1 (con filtro)",
       "filtro": "Hiflo HF131",
-      "fonte": "comune_aftermarket"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK CR8E",
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "OEM Keeway 45110T800000 (anteriore); OEM Keeway/QJMotor 45110T400000 (posteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "yamaha_mt125_2020-2023": {
@@ -342,8 +345,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W30 SAE",
@@ -397,22 +403,25 @@
     "pneumatici": {
       "anteriore": "90/80-17",
       "posteriore": "130/70-17",
-      "pressione_bar": null,
+      "pressione_bar": {
+        "anteriore": 1.75,
+        "posteriore": 2.0
+      },
       "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 10W-40",
+      "quantita_litri": "1,4 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK MR8E-9",
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Suzuki OEM 59101-34820-000 ant. / Suzuki OEM 69101-34810-000 post.",
+      "fonte": "comune_aftermarket"
     }
   },
   "kawasaki_z650": {
@@ -618,7 +627,10 @@
     "pneumatici": {
       "anteriore": "90/80-17",
       "posteriore": "130/70-17",
-      "pressione_bar": null,
+      "pressione_bar": {
+        "anteriore": 1.75,
+        "posteriore": 2.0
+      },
       "fonte": "verificata"
     },
     "olio": {
@@ -632,8 +644,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA715 ant.",
+      "fonte": "comune_aftermarket"
     }
   },
   "kawasaki_versys650": {
@@ -852,8 +864,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.8,
+        "posteriore": 2.0
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "5W40 API SL (motore 3V iGet, piattaforma condivisa con Primavera 125)",
@@ -866,8 +881,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. EBC SFA353; post. EBC 816 (ganasce tamburo)",
+      "fonte": "comune_aftermarket"
     }
   },
   "suzuki_burgman400": {
@@ -1075,8 +1090,11 @@
     "pneumatici": {
       "anteriore": "110/70-17",
       "posteriore": "150/60-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W30",
@@ -1089,8 +1107,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA679HH ant.",
+      "fonte": "comune_aftermarket"
     }
   },
   "honda_cb650r": {
@@ -1156,10 +1174,10 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.5,
         "posteriore": 2.8
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W50 API SL",
@@ -1347,10 +1365,10 @@
       "anteriore": "110/70-17",
       "posteriore": "140/70-17",
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.0,
         "posteriore": 2.5
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W40 (minimo API SG)",
@@ -1401,8 +1419,8 @@
       "anteriore": "120/70-17",
       "posteriore": "190/55-17",
       "pressione_bar": {
-        "anteriore": null,
-        "posteriore": 2.5
+        "anteriore": 2.5,
+        "posteriore": 2.9
       },
       "fonte": "indicativa"
     },
@@ -1417,8 +1435,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA380HH ant. (pinze non Brembo)",
+      "fonte": "comune_aftermarket"
     }
   },
   "yamaha_xsr700": {
@@ -1426,10 +1444,10 @@
       "anteriore": "120/70-17",
       "posteriore": "180/55-17",
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.25,
         "posteriore": 2.5
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W40",
@@ -1454,8 +1472,11 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "180/55-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.2
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W40",
@@ -1481,10 +1502,10 @@
       "anteriore": "90/80-14 (x2)",
       "posteriore": "130/70-13",
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.0,
         "posteriore": 2.25
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W40 API SG",
@@ -1497,8 +1518,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. sx Brembo 07112; ant. dx Brembo 07111; post. Brembo 07110",
+      "fonte": "comune_aftermarket"
     }
   },
   "honda_cb1000r": {
@@ -1506,10 +1527,10 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.5,
         "posteriore": 2.9
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W30",
@@ -1530,8 +1551,11 @@
     "pneumatici": {
       "anteriore": "120/70-ZR17",
       "posteriore": "160/60-ZR17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W40 API SE (o superiore)",
@@ -1698,10 +1722,10 @@
       "anteriore": "120/70-17",
       "posteriore": "160/60-17",
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.5,
         "posteriore": 2.9
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W30",
@@ -1714,16 +1738,19 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA759HH ant.",
+      "fonte": "comune_aftermarket"
     }
   },
   "honda_forza750": {
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "160/60-15",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.8,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W30",
@@ -1736,16 +1763,19 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA679HH ant. / FA496HH post.",
+      "fonte": "comune_aftermarket"
     }
   },
   "piaggio_liberty150": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.2
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "5W-40",
@@ -1758,8 +1788,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Piaggio OEM 1C000760 ant. (equiv. EBC/Newfren)",
+      "fonte": "comune_aftermarket"
     }
   },
   "piaggio_medley150": {
@@ -1817,10 +1847,10 @@
       "anteriore": "120/70-17",
       "posteriore": "180/55-17",
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.5,
         "posteriore": 2.8
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W50 API SL",
@@ -1841,8 +1871,11 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "200/55-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.3,
+        "posteriore": 2.5
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "5W-40",
@@ -1863,8 +1896,11 @@
     "pneumatici": {
       "anteriore": "120/70-ZR17",
       "posteriore": "190/55-ZR17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.3,
+        "posteriore": 2.5
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "5W-40",
@@ -1885,14 +1921,17 @@
     "pneumatici": {
       "anteriore": "90/90-21",
       "posteriore": "150/70-18",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-50",
-      "quantita_litri": null,
+      "quantita_litri": "2,3 (con filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK MR9DI-7",
@@ -1907,8 +1946,11 @@
     "pneumatici": {
       "anteriore": "120/70-ZR17",
       "posteriore": "180/60-ZR17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "15W50",
@@ -1954,8 +1996,11 @@
     "pneumatici": {
       "anteriore": "90/90-21",
       "posteriore": "150/70-18",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.2
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "15W50 MA2",
@@ -1968,16 +2013,19 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB3792 ant. / 07BB04SD post.",
+      "fonte": "comune_aftermarket"
     }
   },
   "ducati_streetfighterv4": {
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "200/60-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.3,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "15W50",
@@ -1998,8 +2046,11 @@
     "pneumatici": {
       "anteriore": "110/70-17",
       "posteriore": "150/60-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.0
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40",
@@ -2021,10 +2072,10 @@
       "anteriore": "110/70-17",
       "posteriore": "150/60-17",
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.0,
         "posteriore": 2.0
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "15W50 JASO MA",
@@ -2046,10 +2097,10 @@
       "anteriore": "90/90-21",
       "posteriore": "140/80-18",
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.0,
         "posteriore": 2.0
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "15W50 T903",
@@ -2070,8 +2121,11 @@
     "pneumatici": {
       "anteriore": "90/90-21",
       "posteriore": "150/70-18",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.4,
+        "posteriore": 2.4
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W50",
@@ -2093,10 +2147,10 @@
       "anteriore": "120/70-17",
       "posteriore": "200/55-17",
       "pressione_bar": {
-        "anteriore": null,
-        "posteriore": 2.9
+        "anteriore": 2.5,
+        "posteriore": 2.5
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W50",
@@ -2109,8 +2163,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA447HH ant. / FA266HH post.",
+      "fonte": "comune_aftermarket"
     }
   },
   "ktm_rc125": {
@@ -2118,10 +2172,10 @@
       "anteriore": "110/70-17",
       "posteriore": "150/60-17",
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.0,
         "posteriore": 2.0
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "15W50 JASO MA",
@@ -2142,12 +2196,15 @@
     "pneumatici": {
       "anteriore": "90/90-17",
       "posteriore": "130/90-15",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.9,
+        "posteriore": 2.1
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "10W-40",
-      "quantita_litri": null,
+      "quantita_litri": "1,2 (con filtro)",
       "filtro": null,
       "fonte": "indicativa"
     },
@@ -2211,8 +2268,11 @@
     "pneumatici": {
       "anteriore": "100/90-19",
       "posteriore": "130/80-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "10W-40 (minimo API SG)",
@@ -2225,30 +2285,33 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA142HH ant. / FA197HH post.",
+      "fonte": "comune_aftermarket"
     }
   },
   "kawasaki_z900rs": {
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "180/55-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W40 (minimo API SG)",
-      "quantita_litri": null,
+      "quantita_litri": "3,8 (con filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK CR9EIA-9",
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. OEM Kawasaki 43082-0091 x2; post. OEM Kawasaki 43082-0185",
+      "fonte": "comune_aftermarket"
     }
   },
   "kawasaki_zx6r": {
@@ -2256,7 +2319,7 @@
       "anteriore": "120/70-17",
       "posteriore": "180/55-17",
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.5,
         "posteriore": 2.9
       },
       "fonte": "indicativa"
@@ -2272,8 +2335,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA379HH ant. / FA630HH post.",
+      "fonte": "comune_aftermarket"
     }
   },
   "kawasaki_ninjazx10r": {
@@ -2327,8 +2390,11 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "190/50-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W40",
@@ -2341,16 +2407,19 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA447HH ant. / FA174HH post.",
+      "fonte": "comune_aftermarket"
     }
   },
   "suzuki_hayabusa": {
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "190/50-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.9,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40",
@@ -2393,8 +2462,11 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "180/55-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "5W-40 (API SJ)",
@@ -2415,14 +2487,17 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "5W-40",
-      "quantita_litri": null,
+      "quantita_litri": "4,0 (con filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK LMAR9FI-10G",
@@ -2438,10 +2513,10 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.2,
         "posteriore": 2.5
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "5W40",
@@ -2454,22 +2529,25 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA209/2HH ant. / FA213HH post.",
+      "fonte": "comune_aftermarket"
     }
   },
   "bmw_r1250r": {
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "180/55-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "5W-40 (API SL, JASO MA2)",
-      "quantita_litri": null,
+      "quantita_litri": "4,0 (con sostituzione filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK LMAR8AI-10",
@@ -2535,10 +2613,10 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
-        "posteriore": 2.3
+        "anteriore": 1.75,
+        "posteriore": 2.0
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-30",
@@ -2551,8 +2629,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA716 ant.",
+      "fonte": "comune_aftermarket"
     }
   },
   "honda_monkey125": {
@@ -2560,10 +2638,10 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.0,
         "posteriore": 2.0
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-30 (minimo API SG)",
@@ -2611,10 +2689,10 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.5,
         "posteriore": 2.5
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40",
@@ -2668,8 +2746,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.5
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "10W-40 (minimo API SG)",
@@ -2744,8 +2825,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40",
@@ -2758,8 +2842,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA759HH ant.",
+      "fonte": "comune_aftermarket"
     }
   },
   "honda_cb1000hornet": {
@@ -2817,8 +2901,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "10W-40",
@@ -2831,8 +2918,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA347HH ant.",
+      "fonte": "comune_aftermarket"
     }
   },
   "suzuki_vstrom1050": {
@@ -2949,22 +3036,25 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.3,
+        "posteriore": 2.6
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "10W-50 sintetico (JASO MA2; Motorex Power Synt 4T)",
       "quantita_litri": "2,9 (con filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK LMAR9AI-10",
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA244HH ant. (2 set per doppia pinza) / EBC FA213HH post.",
+      "fonte": "comune_aftermarket"
     },
     "liquido_freni": {
       "tipo": "DOT 4",
@@ -2975,12 +3065,15 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.4,
+        "posteriore": 2.4
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "10W-50 (Motorex Power Synth)",
-      "quantita_litri": null,
+      "quantita_litri": "2,8 (con filtro)",
       "filtro": null,
       "fonte": "indicativa"
     },
@@ -2997,8 +3090,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-50 (JASO T903)",
@@ -3011,8 +3107,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA447HH ant.",
+      "fonte": "comune_aftermarket"
     },
     "liquido_freni": {
       "tipo": "DOT 4 / DOT 5.1",
@@ -3074,22 +3170,25 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.7,
+        "posteriore": 1.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "5W-40",
-      "quantita_litri": null,
+      "quantita_litri": "1,65 (con filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK LMAR8J-9E",
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. EBC FA606; post. EBC FA213",
+      "fonte": "comune_aftermarket"
     }
   },
   "honda_nt1100": {
@@ -3243,10 +3342,10 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.3,
         "posteriore": 2.5
       },
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "15W-50 (SYNTHESE, API SJ)",
@@ -3259,16 +3358,19 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA432HH ant.",
+      "fonte": "comune_aftermarket"
     }
   },
   "ducati_diavelv4": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "15W-50 (Vollsynth)",
@@ -3281,8 +3383,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA447HH ant.",
+      "fonte": "comune_aftermarket"
     },
     "liquido_freni": {
       "tipo": "DOT 4",
@@ -3394,12 +3496,12 @@
       "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR9EIA-9",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA447HH ant.",
+      "fonte": "comune_aftermarket"
     }
   },
   "bmw_s1000rr": {
@@ -3452,8 +3554,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR90SA ant.",
+      "fonte": "comune_aftermarket"
     }
   },
   "bmw_m1000rr": {
@@ -3614,8 +3716,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "10W-40",
@@ -3628,8 +3733,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA231 ant.",
+      "fonte": "comune_aftermarket"
     },
     "liquido_freni": {
       "tipo": "DOT 4",
@@ -3707,14 +3812,14 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.5,
         "posteriore": 2.5
       },
       "fonte": "indicativa"
     },
     "olio": {
       "tipo": "10W-40",
-      "quantita_litri": null,
+      "quantita_litri": "3,2 (con filtro)",
       "filtro": null,
       "fonte": "indicativa"
     },
@@ -3911,8 +4016,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40",
@@ -3925,16 +4033,19 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA197HH ant.",
+      "fonte": "comune_aftermarket"
     }
   },
   "kawasaki_z500": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40",
@@ -3947,8 +4058,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Kawasaki OEM 43082-0175 ant. / Kawasaki OEM 43082-0128 post.",
+      "fonte": "comune_aftermarket"
     }
   },
   "kawasaki_zh2": {
@@ -3977,8 +4088,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40",
@@ -4003,8 +4117,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.3,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-50",
@@ -4187,8 +4304,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.4,
+        "posteriore": 2.4
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "10W-50",
@@ -4293,8 +4413,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. EBC FA209/2 x2; post. EBC FA213",
+      "fonte": "comune_aftermarket"
     }
   },
   "bmw_f900gs": {
@@ -4390,7 +4510,7 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
+        "anteriore": 2.3,
         "posteriore": 2.5
       },
       "fonte": "indicativa"
@@ -4414,8 +4534,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.3,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "15W-50 (API SJ)",
@@ -4601,8 +4724,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.8,
+        "posteriore": 2.0
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "5W-40",
@@ -4718,14 +4844,17 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "10W-30 (JASO T 903 MB)",
       "quantita_litri": "0,8 (con filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK CPR8EA-9",
@@ -5092,8 +5221,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40 (API SJ)",
@@ -5106,8 +5238,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Keeway OEM PD4411103610000 ant. (P04441110-361-0000) / Keeway OEM PD4421103610000 post. (P04442110-361-0000)",
+      "fonte": "comune_aftermarket"
     }
   },
   "yamaha_delight125": {
@@ -5158,8 +5290,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.5,
+        "posteriore": 2.0
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "10W-40",
@@ -5382,8 +5517,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.4,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-50 (Motorex)",
@@ -5396,8 +5534,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. EBC FA244 (2 set) / OEM KTM 60313130000 x2; post. EBC FA181 / OEM KTM 50313030000",
+      "fonte": "comune_aftermarket"
     }
   },
   "ktm_125enduro": {
@@ -5575,8 +5713,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA185R ant. (alternative EBC FA185TT/MXS185)",
+      "fonte": "comune_aftermarket"
     }
   },
   "suzuki_gsxr750": {
@@ -5791,12 +5929,15 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.9,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "15W-40 (Mobil1 Racing 4T)",
-      "quantita_litri": null,
+      "quantita_litri": "4,6 (con filtro)",
       "filtro": null,
       "fonte": "indicativa"
     },
@@ -6617,8 +6758,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.72,
+        "posteriore": 2.21
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "15W-50 (API SL)",
@@ -6801,8 +6945,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB38SA ant. x2 / 07BB04SP post. (R nineT base 2014-2023)",
+      "fonte": "comune_aftermarket"
     },
     "liquido_freni": {
       "tipo": "DOT 4",
@@ -7011,8 +7155,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.8
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "10W-60",
@@ -7206,8 +7353,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB1990 ant.",
+      "fonte": "comune_aftermarket"
     },
     "liquido_freni": {
       "tipo": "DOT 4",
