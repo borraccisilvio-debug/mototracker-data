@@ -3562,22 +3562,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40 (API SJ)",
+      "quantita_litri": "4,0 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR9FI-10G",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "BMW/Brembo 34117914569 (anteriore) / 34211542313 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "bmw_r1300r": {
@@ -3672,22 +3679,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.9,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40 (API SL/JASO MA2)",
+      "quantita_litri": "4,5 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8AI-8",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA613HH (anteriore) / Brembo 07BB03SP (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "bmw_c400x": {
@@ -3711,8 +3725,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA606HH (anteriore) / EBC FA213HH (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "liquido_freni": {
       "tipo": "DOT 4",
@@ -4112,8 +4126,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA281HH (anteriore) / FA174HH (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "liquido_freni": {
       "tipo": "DOT 4",
@@ -4340,30 +4354,40 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40 (API SL)",
+      "quantita_litri": "3,0 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR9J-9E",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "BMW/Brembo 34118548028 (anteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "bmw_ce02": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.8,
+        "posteriore": 1.8
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": null,
@@ -4376,16 +4400,23 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07082CC (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "bmw_ce04": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.3,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": null,
@@ -4398,16 +4429,23 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07082CC (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "bmw_f800gs": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.2,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "15W-50",
@@ -4428,88 +4466,116 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.2,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40 (API SJ/JASO MA2)",
+      "quantita_litri": "3,0 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR9J-9E",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB03SA (anteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
     }
   },
   "bmw_f900gsadventure": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.2,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40 (API SL/JASO MA2)",
+      "quantita_litri": "3,0 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR9J-9E",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "bmw_m1000r": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40 (API SJ)",
+      "quantita_litri": "4,0 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR9FI-10G",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "BMW/Brembo 34117914569 (anteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "bmw_m1000xr": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.3,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40 (API SJ)",
+      "quantita_litri": "4,0 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR9FI-10G",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "BMW/Brembo 34117914569 (anteriore) / 34218556442 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "bmw_r12": {
@@ -4533,8 +4599,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "BMW/Brembo 34118548028 (anteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "bmw_r12gs": {
@@ -4964,8 +5030,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40",
@@ -4978,8 +5047,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "DP Brakes DP412 (anteriore e posteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "kawasaki_ninja1100sx": {
@@ -6936,8 +7005,8 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
-        "posteriore": 2.5
+        "anteriore": 2.5,
+        "posteriore": 2.7
       },
       "fonte": "indicativa"
     },
