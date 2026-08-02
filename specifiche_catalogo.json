@@ -3694,22 +3694,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.2,
+        "posteriore": 2.4
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "5W-40",
-      "quantita_litri": null,
+      "tipo": "5W-40 (API SJ / JASO MA2)",
+      "quantita_litri": "1,8 (con filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8J-9E",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "kawasaki_w800": {
