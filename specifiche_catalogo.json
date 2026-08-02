@@ -889,8 +889,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.75,
+        "posteriore": 2.0
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "10W40",
@@ -2366,24 +2369,28 @@
       "anteriore": null,
       "posteriore": null,
       "pressione_bar": {
-        "anteriore": null,
-        "posteriore": 2.25
+        "anteriore": 2.0,
+        "posteriore": 2.0
       },
       "fonte": "indicativa"
     },
     "olio": {
-      "tipo": "10W40",
+      "tipo": "10W-40 (API SF/SG o SH/SJ, JASO MA)",
       "quantita_litri": "1,2 (1,3 con filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": "NGK CR8E / CR8EIX",
-      "fonte": "indicativa"
+      "modello": "NGK CR8E (alt. DENSO U24ESR-N)",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": "Brembo 07070 (anteriore)",
       "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "suzuki_gsxs1000": {
@@ -2422,8 +2429,8 @@
       "fonte": "verificata"
     },
     "olio": {
-      "tipo": "10W-40",
-      "quantita_litri": null,
+      "tipo": "10W-40 (JASO MA/MA2)",
+      "quantita_litri": "3,1 (3,3 con cambio filtro)",
       "filtro": null,
       "fonte": "indicativa"
     },
@@ -2432,30 +2439,33 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA419HH (posteriore; anteriore non confermato per le pinze Stylema del Gen3)",
+      "fonte": "comune_aftermarket"
     }
   },
   "suzuki_vstrom800de": {
     "pneumatici": {
       "anteriore": "90/90-21",
       "posteriore": "150/70-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "10W40 (carter 3,9 L)",
-      "quantita_litri": null,
+      "tipo": "10W-40 (API SJ/SL/SM/SN, JASO MA)",
+      "quantita_litri": "3,0 (3,5 con cambio filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8BI-9",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07HO3005 (anteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "bmw_f900r": {
@@ -2926,22 +2936,25 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
-    },
-    "olio": {
-      "tipo": null,
-      "quantita_litri": "3,5",
-      "filtro": null,
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.5
+      },
       "fonte": "indicativa"
     },
+    "olio": {
+      "tipo": "10W-40 (API SM/SN, JASO MA)",
+      "quantita_litri": "2,7 (3,0 con cambio filtro)",
+      "filtro": null,
+      "fonte": "verificata"
+    },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8BI-9",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07SU27SA (anteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "kawasaki_versys1100": {
@@ -3148,22 +3161,25 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 10W-40; API SG, SH, SJ, SL o SM; JASO MA, MA1 o MA2",
+      "quantita_litri": "1,6 L senza rimozione filtro / 2,0 L con rimozione filtro",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR9G",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "DP Brakes DP412 (anteriore e posteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "bmw_g310gs": {
@@ -3417,22 +3433,25 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.9,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 10W-40; API SG, SH, SJ, SL o SM; JASO MA, MA1 o MA2",
+      "quantita_litri": "3,5 L senza rimozione filtro / 4,3 L con rimozione filtro",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK SILMAR9E9",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "DP Brakes DP947/SDP947 (anteriore, pinza Tokico) oppure SDP978 (anteriore, pinza Brembo); DP411 (posteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "kawasaki_ninjah2": {
@@ -3971,18 +3990,21 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": "3,4",
+      "tipo": "10W-40 (API SG/SH/SJ/SL, JASO MA)",
+      "quantita_litri": "2,8 (3,2 con cambio filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR9EIA9",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -3993,18 +4015,21 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "10W-40 (API SG/SH/SJ/SL, JASO MA)",
       "quantita_litri": "3,4",
       "filtro": null,
       "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR9EIA-9",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -4844,22 +4869,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.5,
+        "posteriore": 2.0
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 (SG/SH/SJ/SL/SM/SN)",
+      "quantita_litri": "0,65 (cambio olio)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK MR7E-9",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "SBS 223CT (anteriore; posteriore a tamburo)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 3 o DOT 4",
+      "fonte": "verificata"
     }
   },
   "honda_dax125": {
@@ -4934,8 +4966,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC SFA708 organiche (anteriore; posteriore a tamburo, nessuna pastiglia)",
+      "fonte": "comune_aftermarket"
     }
   },
   "honda_supercub": {
@@ -5099,8 +5131,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40",
@@ -5113,8 +5148,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "DP Brakes DP412 (anteriore e posteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "keeway_vieste125": {
@@ -5841,8 +5876,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40",
@@ -5855,8 +5893,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB37SA (anteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "triumph_streettriple765": {
