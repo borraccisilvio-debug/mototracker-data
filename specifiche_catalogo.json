@@ -2206,18 +2206,18 @@
       "fonte": "indicativa"
     },
     "olio": {
-      "tipo": "10W-40",
-      "quantita_litri": "1,2 (con filtro)",
+      "tipo": "10W-40 (API SH, JASO MA)",
+      "quantita_litri": "1,2 (con cambio filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": "NGK DPR7EA-9",
-      "fonte": "indicativa"
+      "modello": "TORCH D7RTC",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07GR96CC (anteriore, confermato solo 2018-2020)",
+      "fonte": "comune_aftermarket"
     }
   },
   "keeway_k300r": {
@@ -2350,18 +2350,22 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": "10W-40 (minimo API SG)",
-      "quantita_litri": "2,9 (3,3 con filtro)",
+      "tipo": "SAE 10W-40; API SG, SH, SJ, SL o SM con JASO MA, MA1 o MA2",
+      "quantita_litri": "2,9 L senza rimozione filtro / 3,3-3,4 L con rimozione filtro (varia leggermente tra generazioni)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK SILMAR9B9",
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": "EBC FA379 (anteriore) / FA192 (posteriore)",
       "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "suzuki_burgman125": {
@@ -2860,22 +2864,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 10W-30; API SJ o superiore; JASO T 903 standard MA",
+      "quantita_litri": "2,6 L allo svuotamento / 2,8 L con cambio filtro",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK IMR9E-9HES",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Honda OEM 06455-MKK-D01 (anteriore) / 06435-MGS-D32 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "honda_africatwin1100adventuresports": {
@@ -3005,8 +3016,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.1,
+        "posteriore": 2.1
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": null,
@@ -3015,12 +3029,12 @@
       "fonte": "non_disponibile"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK DR8EA",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "OEM Keeway 45110T800000 (anteriore) / Brembo 07HO4008 (posteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "keeway_rks125": {
@@ -3211,44 +3225,58 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": "4,8",
+      "tipo": "SAE 10W-30; API SJ o superiore; JASO T 903 standard MA",
+      "quantita_litri": "4,8 L (NT1100A manuale) / 5,2 L (NT1100D DCT)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK SILMAR8A9S",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Honda OEM 06455-MKK-D01 (anteriore) / 06435-MEJ-026 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "honda_nx500": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": "3,2",
+      "tipo": "SAE 10W-30, JASO T 903 standard MA",
+      "quantita_litri": "2,4 L senza rimozione filtro / 2,6 L con rimozione filtro",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CPR8EA-9",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Honda OEM 06455-MKP-DQ1 (anteriore) / 06435-MGZ-J02 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "honda_rebel1100": {
@@ -3902,22 +3930,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 0W-30 o 10W-30; API SL o superiore; semisintetico o sintetico",
+      "quantita_litri": "2,8 L allo svuotamento / 3,0 L con cambio filtro",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK SILMAR10C9S",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Honda OEM 06455-MKR-D11 (anteriore, pinze Nissin) / 06435-MJT-E01 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "honda_cbr600rr": {
@@ -4898,22 +4933,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.0
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "10W-30",
-      "quantita_litri": "0,8",
+      "tipo": "SAE 10W-30; API SJ o superiore; JASO T 903 standard MA",
+      "quantita_litri": "0,8 L (allo svuotamento con cambio filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK CPR7EA-9S",
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA629 (posteriore); anteriore non confermato in cataloghi affidabili",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 3 o DOT 4",
+      "fonte": "verificata"
     }
   },
   "honda_msx125": {
@@ -5018,22 +5060,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": "2,5",
+      "tipo": "SAE 10W-30; API SJ o superiore; JASO T 903 standard MA",
+      "quantita_litri": "2,0 L (allo svuotamento, con o senza cambio filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK MR6K-9",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "honda_sh125mode": {
@@ -5087,22 +5136,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 10W-40; API SG, SH, SJ, SL o SM con JASO MA, MA1 o MA2",
+      "quantita_litri": "3,2 L senza rimozione filtro / 3,8 L con rimozione filtro",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR9EIA-9",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "kawasaki_z125": {
@@ -5222,22 +5278,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.0
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "API SF",
+      "quantita_litri": 0.8,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": null,
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA707 (anteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 3 / DOT 4",
+      "fonte": "verificata"
     }
   },
   "keeway_sixties300": {
@@ -5266,8 +5329,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.0
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": null,
@@ -5276,12 +5342,16 @@
       "fonte": "non_disponibile"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK DPR7EA",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "OEM Keeway 45110T800000 (anteriore) / 55120P100000 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 5.1 (PETRONAS Tutela Brake Fluid)",
+      "fonte": "verificata"
     }
   },
   "keeway_vcruise125": {
@@ -5741,22 +5811,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 10W-40; API SG, SH, SJ, SL o SM con JASO MA, MA1 o MA2",
+      "quantita_litri": "2,6 L",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK SILMAR9B",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "kawasaki_ze1": {
@@ -6998,44 +7075,58 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.5,
+        "posteriore": 1.5
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40",
+      "quantita_litri": "1,1-1,2 L (valore approssimato, non confermato sul manuale)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR8E",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
     }
   },
   "kawasaki_klx230": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.5,
+        "posteriore": 1.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 10W-40; API SJ, SL, SM, SN, SN PLUS, SP con JASO MA, MA1 o MA2",
+      "quantita_litri": "1,0 L senza rimozione filtro / 1,1 L con rimozione filtro",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR9G",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA54X (anteriore, 2020-2022); codice posteriore non confermato con certezza",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 3 o DOT 4",
+      "fonte": "verificata"
     }
   },
   "bmw_rninet": {
@@ -7316,22 +7407,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 10W-30; API SJ o superiore; JASO T 903 standard MA",
+      "quantita_litri": "2,6 L allo svuotamento / 2,8 L con cambio filtro",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK IMR9E-9HES",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo BB28218 (anteriore, pinze Stylema) / Honda OEM 06435-MGS-D32 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "ducati_multistradav4rally": {
