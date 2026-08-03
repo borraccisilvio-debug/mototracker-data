@@ -2144,8 +2144,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA244HH (anteriore) / EBC FA181HH (posteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "ktm_superduke1290": {
@@ -3122,8 +3122,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA244HH (anteriore) / EBC FA213HH (posteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "ktm_1290superdukegt": {
@@ -3972,44 +3972,58 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 10W-30, standard JASO T903 MA (API SG o superiore)",
+      "quantita_litri": "2,8 (dopo scarico e cambio filtro; 2,7 dopo scarico, 3,5 dopo smontaggio)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "DENSO VUH27D",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA390HH (anteriore) / EBC FA436 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "honda_crf300": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.5,
+        "posteriore": 1.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 10W-30, JASO T903 standard MA (API SJ o superiore, esclusi oli 'Energy/Resource Conserving')",
+      "quantita_litri": "1,5 (dopo scarico e cambio filtro; 1,4 dopo scarico, 1,8 dopo smontaggio)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK SIMR8A9",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA185R (anteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 3 o DOT 4 Honda",
+      "fonte": "verificata"
     }
   },
   "ducati_multistradav2": {
@@ -4231,8 +4245,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA244HH (anteriore) / EBC FA436HH (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "liquido_freni": {
       "tipo": "DOT 4 / DOT 5.1",
@@ -4366,44 +4380,50 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.8,
+        "posteriore": 1.8
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-50",
+      "quantita_litri": "1,70",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LKAR9BI-10 (interna) / NGK LMAR7DI-10 (esterna)",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA209/2HH (anteriore) / Brembo 07BB02SD (posteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "ktm_1390superduke": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-50",
+      "quantita_litri": "3,50 (uso normale, >=0°C)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LKAR9DI-10 (interna) / NGK LMAR7DI-10 (esterna)",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB3796 (anteriore) / Brembo 07BB2065 (posteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "ktm_890smt": {
@@ -4427,8 +4447,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07BB19SA (anteriore) / Brembo 07BB0495 (posteriore)",
+      "fonte": "comune_aftermarket"
     },
     "liquido_freni": {
       "tipo": "DOT 4 / DOT 5.1",
@@ -4786,8 +4806,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Aprilia OEM 1C000760 (anteriore) / Aprilia OEM 647079 (posteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "aprilia_rx": {
@@ -4838,22 +4858,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.7,
+        "posteriore": 1.8
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40 (JASO MA, MA2; API SL; ACEA A3)",
+      "quantita_litri": "0,9 L",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR9EKB / CR9EB / CR8EB (2018-2020) / NGK MR9DI-7 (2021-presente)",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Aprilia OEM B044201 (anteriore) / 2B003955 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "vespa_elettrica": {
@@ -5041,30 +5068,40 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 10W-30, JASO T903 standard MA (API SG o superiore, esclusi oli 'a risparmio energetico')",
+      "quantita_litri": "0,8 (dopo svuotamento; 1,0 dopo smontaggio)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CPR6EA-9 (o DENSO U20EPR9)",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA691HH (anteriore; il posteriore e' a tamburo, non a pastiglie)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 3 o DOT 4",
+      "fonte": "verificata"
     }
   },
   "honda_em1e": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.5,
+        "posteriore": 2.0
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": null,
@@ -5079,6 +5116,10 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 3 o DOT 4 Honda",
+      "fonte": "verificata"
     }
   },
   "honda_gb350s": {
@@ -5114,22 +5155,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.75,
+        "posteriore": 2.0
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 10W-30, JASO T903 standard MB (API SJ o superiore, esclusi oli 'a risparmio energetico')",
+      "quantita_litri": "0,8 (dopo svuotamento; 0,85 dopo scarico e pulizia reticella filtrante, 0,9 dopo smontaggio)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8L-9",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC SFA603 (anteriore; il posteriore e' a tamburo, non a pastiglie)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 3 o DOT 4",
+      "fonte": "verificata"
     }
   },
   "kawasaki_meguros1": {
@@ -5617,18 +5665,22 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-50 (API SL, JASO MA2)",
+      "quantita_litri": "2,2 L con cambio filtro",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK IR MR9DI-7 (iridio)",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Aprilia OEM 2S002298 (anteriore, fitment ufficiale confermato per Tuono 457) / Brembo 07BB02 (posteriore, confermato solo per RS 457, stesso impianto 220mm ByBre)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
     }
   },
   "piaggio_mp3310hpe": {
@@ -5711,8 +5763,8 @@
       "fonte": "non_disponibile"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK MR8BI-8 (iridio, OEM Aprilia 1A010638)",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -5730,10 +5782,10 @@
       "fonte": "verificata"
     },
     "olio": {
-      "tipo": "10W-50 (Motorex)",
-      "quantita_litri": null,
+      "tipo": "10W-50 (Motorex Power Synth)",
+      "quantita_litri": "3,60 (con cambio filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK LMAR7DI-10 (esterna) / LKAR9BI-10 (interna)",
@@ -5752,10 +5804,10 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "Motorex Formula 4T 15W/50",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
       "modello": null,
@@ -5770,18 +5822,21 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.0
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "15W-50 (parzialmente sintetico)",
+      "quantita_litri": "1,5",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "Bosch VR6NEU",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -7046,22 +7101,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.0
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "SAE 10W-30, JASO T903 standard MA (Pro Honda GN4 olio 4 tempi)",
+      "quantita_litri": "1,5 (dopo scarico e cambio filtro; 1,4 dopo scarico)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK SIMR8A9",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA196 (stesso codice anteriore e posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "yamaha_bolt": {
