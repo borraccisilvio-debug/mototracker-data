@@ -6442,10 +6442,10 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "15W-50 / 20W-50 / 15W-40",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
       "modello": null,
@@ -6454,6 +6454,10 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
     }
   },
   "harleydavidson_streetbob114": {
@@ -6476,6 +6480,10 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
     }
   },
   "harleydavidson_lowriders": {
@@ -6498,6 +6506,10 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
     }
   },
   "harleydavidson_lowriderst": {
@@ -6520,6 +6532,10 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
     }
   },
   "harleydavidson_fatbob114": {
@@ -6542,6 +6558,10 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
     }
   },
   "harleydavidson_fatboy114": {
@@ -6564,6 +6584,10 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
     }
   },
   "harleydavidson_heritageclassic114": {
@@ -6586,6 +6610,10 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "indicativa"
     }
   },
   "harleydavidson_roadglide": {
