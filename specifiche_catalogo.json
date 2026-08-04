@@ -2349,8 +2349,11 @@
     "pneumatici": {
       "anteriore": "120/70-17",
       "posteriore": "190/55-17",
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": "SAE 10W-40; API SG, SH, SJ, SL o SM con JASO MA, MA1 o MA2",
@@ -3658,44 +3661,58 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.3,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40, API SL / JASO MA2 (BMW Motorrad ADVANTEC consigliato)",
+      "quantita_litri": "5,0 (con sostituzione filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8AI-10",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "BMW 34117108409 (anteriore, confermato R1300R). Posteriore non confermato per questo modello specifico.",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "bmw_r1300rs": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.3,
+        "posteriore": 2.5
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40, API SL / JASO MA2 (BMW Motorrad ADVANTEC Ultimate consigliato)",
+      "quantita_litri": "5,0 (con sostituzione filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8AI-10",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "BMW 34117108409 (anteriore) / BMW 34217108470 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "bmw_r1300rt": {
@@ -3833,22 +3850,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40, API SL / JASO MA2 (BMW Motorrad ADVANTEC Ultimate consigliato)",
+      "quantita_litri": "4,0 (con sostituzione filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8AI-10",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "BMW/Hayes 34118405104 (anteriore) / BMW 34218562163 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "yamaha_mt10": {
@@ -3916,8 +3940,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "SBS 841RST (anteriore, pinze Brembo Stylema)",
+      "fonte": "comune_aftermarket"
     },
     "liquido_freni": {
       "tipo": "DOT 4",
@@ -4748,22 +4772,29 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40, API SL / JASO MA2 (BMW Motorrad ADVANTEC Ultimate consigliato)",
+      "quantita_litri": "4,0 (con sostituzione filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8AI-10",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "BMW/Hayes 34118405104 (anteriore) / BMW 34218562163 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "bmw_r1300gsadventure": {
@@ -5121,8 +5152,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07122CC / post. freno a tamburo, nessuna pastiglia",
+      "fonte": "comune_aftermarket"
     },
     "liquido_freni": {
       "tipo": "DOT 3 o DOT 4 Honda",
@@ -5150,8 +5181,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07HO30SA / post. Brembo 07HO41LA",
+      "fonte": "comune_aftermarket"
     },
     "liquido_freni": {
       "tipo": "DOT 4",
@@ -5507,22 +5538,25 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.75,
+        "posteriore": 2.0
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "10W-40 (API SG)",
-      "quantita_litri": null,
+      "tipo": "10W-40 (API SG o superiore, JASO MB)",
+      "quantita_litri": "0.80",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK CR6HSA / NGK CR6HIX",
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07113CC (anteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "yamaha_neos": {
@@ -5580,8 +5614,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40",
@@ -5594,16 +5631,19 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Brembo 07111CC (anteriore destra) / 07112CC (anteriore sinistra)",
+      "fonte": "comune_aftermarket"
     }
   },
   "yamaha_xsr125": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.8,
+        "posteriore": 2.0
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "10W-40",
@@ -5616,8 +5656,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Yamaha 3C1-F5805-10 (anteriore, OEM)",
+      "fonte": "comune_aftermarket"
     }
   },
   "yamaha_xsr900gp": {
@@ -5816,22 +5856,25 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.0
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": "Motorex Formula 4T 15W/50",
-      "quantita_litri": null,
+      "tipo": null,
+      "quantita_litri": "1,2",
       "filtro": null,
       "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "Champion REK6ZMC",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07BB0365 / post. Brembo 07BB0265",
+      "fonte": "comune_aftermarket"
     }
   },
   "ktm_390enduro": {
@@ -5855,8 +5898,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07BB0365 / post. Brembo 07BB0265",
+      "fonte": "comune_aftermarket"
     }
   },
   "keeway_xdv": {
@@ -6157,22 +6200,25 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.34,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 o 10W-50",
+      "quantita_litri": "3,0 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR9EK",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07BB19SA x2 / post. Brembo 07BB02SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "triumph_daytona660": {
@@ -6321,8 +6367,8 @@
       "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07YA27SA / post. Brembo 07HO53SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "cfmoto_450ss": {
@@ -6470,8 +6516,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.48,
+        "posteriore": 2.48
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": null,
@@ -6484,16 +6533,19 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07BB19SA x2 / post. Brembo 07BB02SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "zero_srs": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.48,
+        "posteriore": 2.48
+      },
+      "fonte": "indicativa"
     },
     "olio": {
       "tipo": null,
@@ -6506,8 +6558,8 @@
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07BB19SA x2 / post. Brembo 07BB02SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "harleydavidson_sportsters": {
@@ -6899,88 +6951,100 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.48,
+        "posteriore": 2.76
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "20W-40",
+      "quantita_litri": "5,7 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK DCPR8E",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07KA23SA / post. Brembo 07HO31SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "indian_sportchief": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.48,
+        "posteriore": 2.76
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "20W-40",
+      "quantita_litri": "5,7 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK DCPR8E",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07BB38SA x2 / post. Brembo 07HO31SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "indian_challenger": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.48,
+        "posteriore": 2.83
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "15W-60",
+      "quantita_litri": "4,7 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LZMAR8AI-10",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07BB38SA x2 / post. Brembo 07HO31SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "indian_pursuit": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.48,
+        "posteriore": 2.83
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "15W-60",
+      "quantita_litri": "4,7 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LZMAR8AI-10",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07BB38SA x2 / post. Brembo 07HO31SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "royalenfield_meteor350": {
@@ -7257,8 +7321,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA423/4HH (anteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "kawasaki_klr650": {
@@ -7377,88 +7441,104 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40, API SL / JASO MA2 (BMW Motorrad ADVANTEC Ultimate consigliato)",
+      "quantita_litri": "4,0 (con sostituzione filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8AI-10",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "BMW/Hayes 34118405104 (anteriore) / BMW 34218562163 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "husqvarna_svartpilen401": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.0
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "15W-50",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
       "modello": null,
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07GR18SA / post. Brembo 07BB02SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "husqvarna_vitpilen401": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.0
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "15W-50",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
       "modello": null,
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07GR18SA / post. Brembo 07BB02SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "husqvarna_svartpilen125": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.0
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "15W-50",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
       "modello": null,
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07GR18SA / post. Brembo 07BB02SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "suzuki_boulevardm109r": {
@@ -7509,44 +7589,50 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.4,
+        "posteriore": 2.4
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-50",
+      "quantita_litri": "2,8",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR9AI-10",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07BB19SA x2 / post. Brembo 07BB04SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "motoguzzi_v7": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.5
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-60 (API SG / JASO MA-MA2)",
+      "quantita_litri": "1,75 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK MR8BI-8 iridio",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07BB19SA / post. Brembo 07006CC (ant. 07BB38SA x2 sulla V7 Sport dal 2025)",
+      "fonte": "comune_aftermarket"
     }
   },
   "motoguzzi_v9": {
@@ -7557,18 +7643,18 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "10W-60 (API SG / JASO MA-MA2)",
       "quantita_litri": null,
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
       "modello": null,
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07BB19SA / post. Brembo 07006CC",
+      "fonte": "comune_aftermarket"
     }
   },
   "motoguzzi_v85tt": {
@@ -7600,22 +7686,25 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.8
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-50 (API SL / JASO MA2)",
+      "quantita_litri": "4,9 (con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8EI-7",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07BB38SA x2 / post. Brembo 07BB04SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "honda_cb1000hornetsp": {
@@ -7802,6 +7891,56 @@
     "liquido_freni": {
       "tipo": "DOT 4",
       "fonte": "indicativa"
+    }
+  },
+  "ktm_adventure890_2021-2023": {
+    "pneumatici": {
+      "anteriore": "90/90-21",
+      "posteriore": "150/70-18",
+      "pressione_bar": {
+        "anteriore": 2.4,
+        "posteriore": 2.4
+      },
+      "fonte": "verificata"
+    },
+    "olio": {
+      "tipo": "10W50",
+      "quantita_litri": "2,8",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK LMAR9AI-10",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": "EBC FA244HH (anteriore) / EBC FA181HH (posteriore)",
+      "fonte": "comune_aftermarket"
+    }
+  },
+  "ktm_adventure890_2024-presente": {
+    "pneumatici": {
+      "anteriore": "90/90-21",
+      "posteriore": "150/70-18",
+      "pressione_bar": {
+        "anteriore": 2.4,
+        "posteriore": 2.4
+      },
+      "fonte": "verificata"
+    },
+    "olio": {
+      "tipo": "10W50",
+      "quantita_litri": "2,9",
+      "filtro": null,
+      "fonte": "indicativa"
+    },
+    "candele": {
+      "modello": "NGK LMAR9AI-10",
+      "fonte": "indicativa"
+    },
+    "pastiglie_freni": {
+      "consigliate": "EBC FA244HH (anteriore) / EBC FA181HH (posteriore)",
+      "fonte": "comune_aftermarket"
     }
   }
 }
