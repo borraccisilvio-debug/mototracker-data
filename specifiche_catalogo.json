@@ -3358,10 +3358,10 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40 (JASO MA, MA2; API SL; ACEA A3)",
+      "quantita_litri": "1,30 L",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": null,
@@ -3376,8 +3376,11 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.9,
+        "posteriore": 2.1
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": null,
@@ -3392,6 +3395,10 @@
     "pastiglie_freni": {
       "consigliate": null,
       "fonte": "non_disponibile"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "aprilia_shiver900": {
@@ -5639,14 +5646,17 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.4
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "5W-40",
-      "quantita_litri": null,
+      "tipo": "5W-40 (JASO MA, MA2; API SL; ACEA A3)",
+      "quantita_litri": "1,70 L",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": null,
@@ -5691,14 +5701,14 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "0W-30 (ACEA A5/B5-04; JASO MB; API SL)",
+      "quantita_litri": "1,30 L",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK MR7BI-8",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -5709,18 +5719,21 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.4
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": "5W-40",
-      "quantita_litri": null,
+      "tipo": "5W-40 (JASO MA, MA2; API SL; ACEA A3)",
+      "quantita_litri": "1,40 L (con cambio filtro)",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK MR7BI-8",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -5731,14 +5744,17 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.4
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "5W-40 (JASO MA, MA2; API SL; ACEA A3)",
+      "quantita_litri": "1,70 L",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": null,
@@ -6288,18 +6304,21 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 (SJ, JASO MA2)",
+      "quantita_litri": "1,4 L (con cambio filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR8EI",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -6310,110 +6329,141 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.45
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 (JASO MA2, API SL/SM)",
+      "quantita_litri": "2,3 L (con cambio filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK BN8RTI",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Galfer FD176G1370 (anteriore) / Galfer FD500G1370 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "cfmoto_675ss": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.3,
+        "posteriore": 2.6
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 (JASO MA2, API SL/SM)",
+      "quantita_litri": "3,1 L (con cambio filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "TORCH BN8RTI",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Galfer FD176G1370 (anteriore) / Galfer FD500G1370 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "cfmoto_300nk": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.25
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 (JASO MA2, API SL/SM)",
+      "quantita_litri": "1,4 L (con cambio filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CPR8EI",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Galfer FD555G1370 (anteriore) / Galfer FD165G1371 (posteriore)",
+      "fonte": "comune_aftermarket"
     }
   },
   "cfmoto_450nk": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.45
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 (JASO MA2, API SL/SM)",
+      "quantita_litri": "2,5 L (con cambio filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "TORCH BN8RTI",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "Galfer FD176G1370 (anteriore) / Galfer FD165G1371 (posteriore)",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "cfmoto_800nk": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.4,
+        "posteriore": 2.6
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 (JASO MA2, API SL/SM)",
+      "quantita_litri": "2,8 L (con cambio filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR9AI-10",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "SBS 706HS (anteriore); codice posteriore non confermato in cataloghi affidabili",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4 o DOT 5.1",
+      "fonte": "verificata"
     }
   },
   "zero_srf": {
@@ -6966,30 +7016,40 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.21,
+        "posteriore": 2.21
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "15W-50 (API SL, JASO MA2) semisintetico",
+      "quantita_litri": "2,20 L",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "Bosch YR7MES",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA181HH ant. / EBC FA213HH post.",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "royalenfield_hunter350": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.0,
+        "posteriore": 2.21
+      },
+      "fonte": "verificata"
     },
     "olio": {
       "tipo": "15W-50 (TEILSYN)",
@@ -7002,74 +7062,95 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA181HH ant. / EBC FA213HH post.",
+      "fonte": "comune_aftermarket"
     }
   },
   "royalenfield_himalayan450": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.24,
+        "posteriore": 2.24
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W40 (API SN, JASO MA2) semisintetico",
+      "quantita_litri": "2,1 L (cambio routine con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "Champion RLV00022",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA209/2HH ant. / EBC FA213HH post.",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "royalenfield_interceptor650": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.24,
+        "posteriore": 2.53
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-50 (API SL, JASO MA2) sintetico",
+      "quantita_litri": "3,1 L (cambio routine con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "Bosch UR5CC",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA209/2HH ant. / EBC FA213HH post.",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "royalenfield_continentalgt650": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.24,
+        "posteriore": 2.53
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-50 (API SL, JASO MA2) sintetico",
+      "quantita_litri": "3,1 L (cambio routine con filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "Bosch UR5CC",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA209/2HH ant. / EBC FA213HH post.",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   },
   "royalenfield_scram411": {
@@ -7093,8 +7174,8 @@
       "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "EBC FA181HH ant. / EBC FA208R post.",
+      "fonte": "comune_aftermarket"
     }
   },
   "honda_rebel300": {
