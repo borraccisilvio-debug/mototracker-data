@@ -2134,10 +2134,10 @@
       "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "10W-50 (Motorex Power Synt 4T)",
       "quantita_litri": "2,80",
       "filtro": null,
-      "fonte": "indicativa"
+      "fonte": "verificata"
     },
     "candele": {
       "modello": "NGK LMAR9AI-10",
@@ -2234,7 +2234,7 @@
       "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
+      "tipo": "15W-50",
       "quantita_litri": "1,70",
       "filtro": null,
       "fonte": "indicativa"
@@ -5482,8 +5482,8 @@
       "fonte": "comune_aftermarket"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. e post. Keeway OEM P0135473190000",
+      "fonte": "comune_aftermarket"
     }
   },
   "keeway_superlight": {
