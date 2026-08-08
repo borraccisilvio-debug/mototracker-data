@@ -2981,22 +2981,25 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 (API SG-SM, JASO MA/MA1/MA2)",
+      "quantita_litri": "3,8 (con filtro; 3,2 senza)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR9EIA-9",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Kawasaki OEM 43082-0182 x2 / post. Kawasaki OEM 43082-0073",
+      "fonte": "comune_aftermarket"
     }
   },
   "aprilia_rs457": {
@@ -3061,18 +3064,18 @@
       "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 (API SH, JASO MA)",
+      "quantita_litri": "1,2 (+/- 0,1)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
       "modello": null,
       "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Galfer FD409G1370 / post. Galfer FD103G1054 (fitment documentato 2022-2024)",
+      "fonte": "comune_aftermarket"
     }
   },
   "ktm_duke790": {
@@ -5372,44 +5375,50 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 1.72,
+        "posteriore": 1.96
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 minerale (API SG o superiore); una sezione dello stesso manuale cita 5W-40 API SJ",
+      "quantita_litri": "0,9",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR7E",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. non trovato / post. Keeway OEM P0135470400000",
+      "fonte": "comune_aftermarket"
     }
   },
   "keeway_v302c": {
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.25,
+        "posteriore": 2.25
+      },
+      "fonte": "indicativa"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "15W-40 (API SN o superiore; il manuale ha anche una tabella viscosita' per temperatura)",
+      "quantita_litri": "2,2 (con filtro; 2,0 senza)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR8E",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Galfer FD219G1370 / post. Galfer FD228G1054",
+      "fonte": "comune_aftermarket"
     }
   },
   "keeway_iskia": {
@@ -5523,13 +5532,13 @@
     },
     "olio": {
       "tipo": null,
-      "quantita_litri": null,
+      "quantita_litri": "2,2 (la tabella non distingue con o senza filtro)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "indicativa"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK CR8E",
+      "fonte": "indicativa"
     },
     "pastiglie_freni": {
       "consigliate": null,
@@ -7655,22 +7664,25 @@
     "pneumatici": {
       "anteriore": null,
       "posteriore": null,
-      "pressione_bar": null,
-      "fonte": "non_disponibile"
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.8
+      },
+      "fonte": "verificata"
     },
     "olio": {
-      "tipo": null,
-      "quantita_litri": null,
+      "tipo": "10W-40 (API SM o SN, JASO MA1/MA2)",
+      "quantita_litri": "3,0 (con filtro; 2,7 solo cambio olio)",
       "filtro": null,
-      "fonte": "non_disponibile"
+      "fonte": "verificata"
     },
     "candele": {
-      "modello": null,
-      "fonte": "non_disponibile"
+      "modello": "NGK LMAR8BI-9",
+      "fonte": "verificata"
     },
     "pastiglie_freni": {
-      "consigliate": null,
-      "fonte": "non_disponibile"
+      "consigliate": "ant. Brembo 07SU27LA x2 / post. Brembo 07SU32SP",
+      "fonte": "comune_aftermarket"
     }
   },
   "husqvarna_norden901": {
