@@ -5292,58 +5292,26 @@
       "fonte": "comune_aftermarket"
     }
   },
-  "kawasaki_ninja1100sx": {
-    "pneumatici": {
-      "anteriore": null,
-      "posteriore": null,
-      "pressione_bar": {
-        "anteriore": 2.5,
-        "posteriore": 2.9
-      },
-      "fonte": "indicativa"
-    },
-    "olio": {
-      "tipo": "SAE 10W-40; API SG, SH, SJ, SL o SM con JASO MA, MA1 o MA2",
-      "quantita_litri": "3,2 L senza rimozione filtro / 3,8 L con rimozione filtro",
-      "filtro": null,
-      "fonte": "verificata"
-    },
-    "candele": {
-      "modello": "NGK CR9EIA-9",
-      "fonte": "verificata"
-    },
-    "pastiglie_freni": {
-      "consigliate": "ant. Kawasaki OEM 43082-0144 x2 / post. Brembo 07KA16",
-      "fonte": "comune_aftermarket"
-    },
-    "liquido_freni": {
-      "tipo": "DOT 4",
-      "fonte": "verificata"
-    }
-  },
   "kawasaki_z125": {
     "pneumatici": {
-      "anteriore": null,
-      "posteriore": null,
-      "pressione_bar": {
-        "anteriore": 1.5,
-        "posteriore": 2.0
-      },
-      "fonte": "verificata"
+      "anteriore": "100/80-17",
+      "posteriore": "130/70-17",
+      "pressione_bar": null,
+      "fonte": "non_disponibile"
     },
     "olio": {
-      "tipo": "10W-40 (API SG-SM, JASO MA/MA1/MA2)",
-      "quantita_litri": "0,9 (con filtro; 0,8 senza)",
+      "tipo": null,
+      "quantita_litri": null,
       "filtro": null,
-      "fonte": "verificata"
+      "fonte": "non_disponibile"
     },
     "candele": {
-      "modello": "NGK CR6HSA",
-      "fonte": "verificata"
+      "modello": null,
+      "fonte": "non_disponibile"
     },
     "pastiglie_freni": {
-      "consigliate": "ant. Kawasaki OEM 43082-0134 / post. Kawasaki OEM 43082-0043",
-      "fonte": "comune_aftermarket"
+      "consigliate": null,
+      "fonte": "non_disponibile"
     }
   },
   "kawasaki_w230": {
@@ -8097,35 +8065,6 @@
     },
     "liquido_freni": null
   },
-  "kawasaki_ninja1100sx_2025-presente": {
-    "pneumatici": {
-      "anteriore": null,
-      "posteriore": null,
-      "pressione_bar": {
-        "anteriore": 2.5,
-        "posteriore": 2.9
-      },
-      "fonte": "indicativa"
-    },
-    "olio": {
-      "tipo": "SAE 10W-40; API SG, SH, SJ, SL o SM con JASO MA, MA1 o MA2",
-      "quantita_litri": "3,2 L senza rimozione filtro / 3,8 L con rimozione filtro",
-      "filtro": null,
-      "fonte": "verificata"
-    },
-    "candele": {
-      "modello": "NGK CR9EIA-9",
-      "fonte": "verificata"
-    },
-    "pastiglie_freni": {
-      "consigliate": "ant. Kawasaki OEM 43082-0144 x2 (SE: 43082-0226) / post. Kawasaki OEM 43082-0073",
-      "fonte": "comune_aftermarket"
-    },
-    "liquido_freni": {
-      "tipo": "DOT 4",
-      "fonte": "verificata"
-    }
-  },
   "vespa_primavera150_2014-2017": {
     "pneumatici": {
       "anteriore": null,
@@ -8249,6 +8188,64 @@
     "pastiglie_freni": {
       "consigliate": "ant. Brembo 07BB37LA x2 / post. Brembo 07HO36SP",
       "fonte": "comune_aftermarket"
+    }
+  },
+  "kawasaki_ninja1000sx": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "SAE 10W-40; API SG, SH, SJ, SL o SM con JASO MA, MA1 o MA2",
+      "quantita_litri": "3,2 L senza rimozione filtro / 3,8 L con rimozione filtro",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK CR9EIA-9",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": "ant. Kawasaki OEM 43082-0144 x2 / post. Brembo 07KA16",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
+    }
+  },
+  "kawasaki_ninja1100sx": {
+    "pneumatici": {
+      "anteriore": null,
+      "posteriore": null,
+      "pressione_bar": {
+        "anteriore": 2.5,
+        "posteriore": 2.9
+      },
+      "fonte": "indicativa"
+    },
+    "olio": {
+      "tipo": "SAE 10W-40; API SG, SH, SJ, SL o SM con JASO MA, MA1 o MA2",
+      "quantita_litri": "3,2 L senza rimozione filtro / 3,8 L con rimozione filtro",
+      "filtro": null,
+      "fonte": "verificata"
+    },
+    "candele": {
+      "modello": "NGK CR9EIA-9",
+      "fonte": "verificata"
+    },
+    "pastiglie_freni": {
+      "consigliate": "ant. Kawasaki OEM 43082-0144 x2 (SE: 43082-0226) / post. Kawasaki OEM 43082-0073",
+      "fonte": "comune_aftermarket"
+    },
+    "liquido_freni": {
+      "tipo": "DOT 4",
+      "fonte": "verificata"
     }
   }
 }
